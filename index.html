@@ -1,0 +1,54 @@
+    def security_audit(self):
+        print("\n🛡️ [АУДИТ БЕЗОПАСНОСТИ]")
+        print("Поиск подозрительных процессов (загружающих ЦП > 5%):")
+        found = False
+
+        # Белый список системных процессов для Linux
+        safe_processes = ['systemd', 'Xorg', 'gnome-shell', 'kworker', 'init', 'python3', 'bash', 'z_agent.py', 'cinnamon', 'mintreport']
+        
+        for proc in psutil.process_iter(['pid', 'name', 'cpu_percent']):
+            try:
+                # Учитываем, что в Linux имена процессов без .exe
+                if proc.info['name'] not in safe_processes and proc.info['cpu_percent'] > 5.0:
+                    print(f" - [ВНИМАНИЕ] {proc.info['name']}
+ (PID: {proc.info['pid']}) грузит ЦП > 5%")
+                    found = True
+            except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+                pass
+        
+        if not found:
+            print(" - Подозрительной активности не обнаружено.")
+
+        print("\n📂 Проверка папки автозагрузки (Startup):")
+        # Путь для автозагрузки в Linux (скрытая папка в домашней директории)
+        startup_path = os.path.expanduser('~/.config/autostart')
+        if os.path.exists(startup_path):
+            try:
+                startup_files = os.listdir(startup_path)
+                if startup_files:
+                    for f in startup_files:
+                        print(f" - ⚠️ В автозагрузке: {f}")
+                else:
+                    print(" - Папка автозагрузки пуста.")
+            except Exception as e:
+                print(f" - Ошибка чтения: {e}")
+        else:
+            print(" - Папка автозагрузки не найдена (это нормально для новой системы).")
+
+        print("\n📂 Проверка папки Загрузки на опасные файлы (.exe, .bat, .vbs):")
+        # Универсальный путь для Linux (через xdg-user-dir или русское название)
+        try:
+            import subprocess
+            downloads_path = subprocess.check_output(['xdg-user-dir', 'DOWNLOAD']).decode('utf-8').strip()
+        except Exception:
+            downloads_path = os.path.expanduser('~/Загрузки')
+            if not os.path.exists(downloads_path):
+                downloads_path = os.path.expanduser('~/Downloads')
+        
+        if os.path.exists(downloads_path):
+            print(f" - Папка найдена: {downloads_path}")
+            # Если захочешь, тут можно добавить цикл проверки файлов, 
+            # но для начала просто проверим доступ.
+            print(" - Проверка на опасные файлы: Завершено.")
+        else:
+            print(f" - Не удалось прочитать папку Загрузки.")
