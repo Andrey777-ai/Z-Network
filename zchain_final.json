@@ -1,0 +1,15 @@
+[
+    {
+        "index": 1,
+        "timestamp": "2026-10-30T02:53:07.972368+00:00",
+        "author": "Чупров Андрей Николаевич",
+        "version": "Z-Network Final Paradigm v2.0",
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "usefulness_score": 64,
+        "payload": {
+            "context_preview": "\n    Z-Network: Децентрализованная экосистема на базе Proof of Useful Work.\n    Включает в себя:\n    1. Z-Agent (Сим-ключ) - локальный ИИ-ассистент на Python для аудита систем.\n    2. Mesh-сети (P2P) ...",
+            "context_hash": "cf713e16ac110cada9b24716ba0e9f213459bea13319fe6d559903e047385db6"
+        },
+        "hash": "dc9956110a2eb12e520853b5ef4144cf34f671383df203c741f26f54598dafe7"
+    }
+]
