@@ -1,54 +1,31 @@
-    def security_audit(self):
-        print("\n🛡️ [АУДИТ БЕЗОПАСНОСТИ]")
-        print("Поиск подозрительных процессов (загружающих ЦП > 5%):")
-        found = False
+<!DOCTY
+PE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Z-Network | Архитектура</title>
+    <style>
+        body { background-color: #0f172a; color: #e2e8f0; font-family: sans-serif; text-align: center; padding-top: 50px; }
+        h1 { color: #38bdf8; font-size: 3em; }
+        .container { max-width: 800px; margin: 0 auto; text-align: left; background: #1e293b; padding: 30px; border-radius: 10px; }
+        ul { line-height: 1.6; }
+    </style>
+</head>
+<body>
+    <h1>Z-Network</h1>
+    <div class="container">
+        <p><strong>Статус:</strong> Узел активирован (Сим-ключ Z-Agent)</p>
+        <p><strong>Платформа:</strong> Linux Mint (x86_64)</p>
+        <h3>Компоненты системы:</h3>
+        <ul>
+            <li>Z-Agent (Сетевой аудит и безопасность)</li>
+            <li>Z-Chain (Генезис-блок v2.0)</li>
+        </ul>
+        <p><i>"Они продают железо, а мы создаем архитектуру"</i></p>
+    </div>
+</body>
+</html>
 
-        # Белый список системных процессов для Linux
-        safe_processes = ['systemd', 'Xorg', 'gnome-shell', 'kworker', 'init', 'python3', 'bash', 'z_agent.py', 'cinnamon', 'mintreport']
-        
-        for proc in psutil.process_iter(['pid', 'name', 'cpu_percent']):
-            try:
-                # Учитываем, что в Linux имена процессов без .exe
-                if proc.info['name'] not in safe_processes and proc.info['cpu_percent'] > 5.0:
-                    print(f" - [ВНИМАНИЕ] {proc.info['name']}
- (PID: {proc.info['pid']}) грузит ЦП > 5%")
-                    found = True
-            except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
-                pass
-        
-        if not found:
-            print(" - Подозрительной активности не обнаружено.")
 
-        print("\n📂 Проверка папки автозагрузки (Startup):")
-        # Путь для автозагрузки в Linux (скрытая папка в домашней директории)
-        startup_path = os.path.expanduser('~/.config/autostart')
-        if os.path.exists(startup_path):
-            try:
-                startup_files = os.listdir(startup_path)
-                if startup_files:
-                    for f in startup_files:
-                        print(f" - ⚠️ В автозагрузке: {f}")
-                else:
-                    print(" - Папка автозагрузки пуста.")
-            except Exception as e:
-                print(f" - Ошибка чтения: {e}")
-        else:
-            print(" - Папка автозагрузки не найдена (это нормально для новой системы).")
 
-        print("\n📂 Проверка папки Загрузки на опасные файлы (.exe, .bat, .vbs):")
-        # Универсальный путь для Linux (через xdg-user-dir или русское название)
-        try:
-            import subprocess
-            downloads_path = subprocess.check_output(['xdg-user-dir', 'DOWNLOAD']).decode('utf-8').strip()
-        except Exception:
-            downloads_path = os.path.expanduser('~/Загрузки')
-            if not os.path.exists(downloads_path):
-                downloads_path = os.path.expanduser('~/Downloads')
-        
-        if os.path.exists(downloads_path):
-            print(f" - Папка найдена: {downloads_path}")
-            # Если захочешь, тут можно добавить цикл проверки файлов, 
-            # но для начала просто проверим доступ.
-            print(" - Проверка на опасные файлы: Завершено.")
-        else:
-            print(f" - Не удалось прочитать папку Загрузки.")
