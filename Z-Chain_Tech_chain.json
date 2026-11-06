@@ -1,0 +1,2939 @@
+[
+    {
+        "index": 1,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-05T14:33:56.760665+00:00",
+        "author": "Чупров Андрей Николаевич",
+        "version": "Tech Genesis v1.0",
+        "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+        "usefulness_score": 30,
+        "payload": {
+            "context_preview": "\n    Успешный перенос Z-Agent на операционную систему Linux Mint. \n    Настроена безопасная работа с GitHub через SSH-ключи. \n    Разработан Мультичей...",
+            "context_hash": "fd0b7164353f5ac25b61a0aa1f25181a2aa9f737842ded87a5ffb63ae384eee3",
+            "applied_keywords": [
+                "Z-Agent",
+                "Linux",
+                "GitHub",
+                "SSH",
+                "Мультичейн",
+                "датасет",
+                "эволюция",
+                "ФЗ-117",
+                "локальная изоляция",
+                "Python",
+                "Архитектор"
+            ]
+        },
+        "hash": "a29abd9ef4e2aa577acb84cf77f4b11d053b23b601c589b133cd32fd0ff09df7"
+    },
+    {
+        "index": 2,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:14:24.271605+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a29abd9ef4e2aa577acb84cf77f4b11d053b23b601c589b133cd32fd0ff09df7",
+        "usefulness_score": 132,
+        "payload": {
+            "session_name": "Перенос и упаковка данных в MEGA_HAB",
+            "code_size_bytes": 6640,
+            "context_hash": "3c2d79d74dd6823b0e89887e62d5d2b2ed8f52b7f0e13c22bc42839ce554c8e7"
+        },
+        "hash": "7b692463eb41e78f0ca12e8566bf3fda801992a83b19d37646e144c98aa82fb0"
+    },
+    {
+        "index": 3,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:14:24.275026+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7b692463eb41e78f0ca12e8566bf3fda801992a83b19d37646e144c98aa82fb0",
+        "usefulness_score": 459,
+        "payload": {
+            "session_name": "Гипербак с кевларом и свечением",
+            "code_size_bytes": 22954,
+            "context_hash": "a40194b993cbb9273d5c4046b86a410c89ae6faade0df0a8936474626ee7ff8e"
+        },
+        "hash": "4c12a4b41fe9afd3b599628bf6af1f149d18f7fa53698245ab7b52b93f3dd961"
+    },
+    {
+        "index": 4,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:14:24.275842+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "4c12a4b41fe9afd3b599628bf6af1f149d18f7fa53698245ab7b52b93f3dd961",
+        "usefulness_score": 37,
+        "payload": {
+            "session_name": "Гиперболоидная установка для майнинга и охлаждения",
+            "code_size_bytes": 1866,
+            "context_hash": "256fcd46810cfddfe51d5082a7161bf1ee968625b3a9c83b8493634f48e3960f"
+        },
+        "hash": "ad1f22feb9860d6265486dac8e00d23b49594c18bbd5030e139791e050971bc5"
+    },
+    {
+        "index": 5,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:14:24.277144+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ad1f22feb9860d6265486dac8e00d23b49594c18bbd5030e139791e050971bc5",
+        "usefulness_score": 1002,
+        "payload": {
+            "session_name": "Ульяновская область_ экономическое выравнивание и развитие",
+            "code_size_bytes": 50139,
+            "context_hash": "839b7e27475d2f3db3e41fc52c5d55c39a15315c825e4ad82c982eff0219206e"
+        },
+        "hash": "af6b5a23c442ad7ff646661db95e42f09f8e248b9c709c399023132a9dd6d90d"
+    },
+    {
+        "index": 6,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:14:24.286410+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "af6b5a23c442ad7ff646661db95e42f09f8e248b9c709c399023132a9dd6d90d",
+        "usefulness_score": 2657,
+        "payload": {
+            "session_name": "Регуляторные инструменты для крипто-порядка",
+            "code_size_bytes": 132896,
+            "context_hash": "15ec9a1ae7656b8209166fd541e3ea984312facf9aed368406d7a2bfde457528"
+        },
+        "hash": "f4e9dd2d2582bdd76b2bec6f1cb3ab11961d4719a7eb7a0ba776377496148edf"
+    },
+    {
+        "index": 7,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:56:42.625407+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f4e9dd2d2582bdd76b2bec6f1cb3ab11961d4719a7eb7a0ba776377496148edf",
+        "usefulness_score": 1056,
+        "payload": {
+            "session_name": "Гипотетическая модель атома как голограммы",
+            "code_size_bytes": 52847,
+            "context_hash": "b88aaa79c13d319a5b7a39808e2de64758aea2779b8cb7dc7c69c22789640777"
+        },
+        "hash": "fbde21d5ca8cd8231ffde766ac7248315f0ab1dbbb5d491377fe07ce12595a19"
+    },
+    {
+        "index": 8,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:56:42.628382+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "fbde21d5ca8cd8231ffde766ac7248315f0ab1dbbb5d491377fe07ce12595a19",
+        "usefulness_score": 220,
+        "payload": {
+            "session_name": "Синтез искусственной паутины для суперматериалов",
+            "code_size_bytes": 11035,
+            "context_hash": "bc1f9a8b702c85e671a48093c87970396d8e34ee134ef9d913b3fe99b30d1f34"
+        },
+        "hash": "43e50cb782463a86156cba3f7f4e8f48b8c8ebe24eab922c842f3fdbfda29e30"
+    },
+    {
+        "index": 9,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:56:42.629411+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "43e50cb782463a86156cba3f7f4e8f48b8c8ebe24eab922c842f3fdbfda29e30",
+        "usefulness_score": 293,
+        "payload": {
+            "session_name": "Гиперболоидный генератор воды для Африки",
+            "code_size_bytes": 14698,
+            "context_hash": "0fbb86adb9f34156e1d997ac1c95df8ca0bcbb643f071c1da7c22117a9d89539"
+        },
+        "hash": "6adf9e76145e64917a7372d0d70b6103c20bc4f5417209986c452ea680edde8e"
+    },
+    {
+        "index": 10,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:56:42.630949+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "6adf9e76145e64917a7372d0d70b6103c20bc4f5417209986c452ea680edde8e",
+        "usefulness_score": 770,
+        "payload": {
+            "session_name": "Анализ Морской коллегии РФ 24 декабря",
+            "code_size_bytes": 38542,
+            "context_hash": "cace49c66bd2fefc682e2bf47781009ba9e946d4206d56489a923f912e1ee96c"
+        },
+        "hash": "339f1f59a938f1d4eaec522a76992071febd229c6c8eefced539da3631f23df9"
+    },
+    {
+        "index": 11,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T00:56:42.632729+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "339f1f59a938f1d4eaec522a76992071febd229c6c8eefced539da3631f23df9",
+        "usefulness_score": 430,
+        "payload": {
+            "session_name": "Антипод жидкого азота_ выделение тепла",
+            "code_size_bytes": 21540,
+            "context_hash": "5ab7347027238a547a253d7a998dd0dda40f398adf9951d5dce2f63178f67530"
+        },
+        "hash": "8c3dcff05f9d0bb5eb0c7529d916858c59c8c5b5a7062c2b1d2bfe00db616678"
+    },
+    {
+        "index": 12,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:05:35.188284+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "8c3dcff05f9d0bb5eb0c7529d916858c59c8c5b5a7062c2b1d2bfe00db616678",
+        "usefulness_score": 254,
+        "payload": {
+            "session_name": "Синтез 2_1 и φ для прорыва",
+            "code_size_bytes": 12735,
+            "context_hash": "21de8fcb33816c87e3bc512a1237c480351b46e6e4fd32214e744d12fe4068e1"
+        },
+        "hash": "0777909edbd8fed5eab369ff2d856e4f5f1724116ba715e91faa7bdc028996b7"
+    },
+    {
+        "index": 13,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:05:35.200530+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0777909edbd8fed5eab369ff2d856e4f5f1724116ba715e91faa7bdc028996b7",
+        "usefulness_score": 5391,
+        "payload": {
+            "session_name": "Универсальный симулятор",
+            "code_size_bytes": 269559,
+            "context_hash": "72c76d45ab7b0940621429e980e7d536a7c1af9343dcf7297e730a6cca151827"
+        },
+        "hash": "81044c72b21e4d5020d3aebcd2d9507353473d77e747caae73d7b40e397bdad5"
+    },
+    {
+        "index": 14,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:05:35.212049+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "81044c72b21e4d5020d3aebcd2d9507353473d77e747caae73d7b40e397bdad5",
+        "usefulness_score": 1719,
+        "payload": {
+            "session_name": "Проект купольной системы для штурмовых групп",
+            "code_size_bytes": 85957,
+            "context_hash": "1b7fcde7e469cc6334fa3d83c84b962775d0662b7057d41fe835cab5d4bb34f2"
+        },
+        "hash": "ee868287c6a79089f7f3dc706f4bce553bdf83026d8e0b6f92c6114f25181cd7"
+    },
+    {
+        "index": 15,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:05:35.214456+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ee868287c6a79089f7f3dc706f4bce553bdf83026d8e0b6f92c6114f25181cd7",
+        "usefulness_score": 704,
+        "payload": {
+            "session_name": "Создание 3D-модели гибридной решетки",
+            "code_size_bytes": 35236,
+            "context_hash": "243d3707ee42f4e41b3c4401cbc16d47cfc1b468fc865d8226d590629fdf7e5d"
+        },
+        "hash": "e2987fec4db47ac88d549100e318339c8df421c8b781762d8aeb60c336e48534"
+    },
+    {
+        "index": 16,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:05:35.215725+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e2987fec4db47ac88d549100e318339c8df421c8b781762d8aeb60c336e48534",
+        "usefulness_score": 461,
+        "payload": {
+            "session_name": "Расчёт доходности майнинга в Усть-Цильме",
+            "code_size_bytes": 23067,
+            "context_hash": "9ee75c61b4eff53a60de064dc5860001d9e9a10be9dfa685c7e4525e882b1254"
+        },
+        "hash": "92f9f92150289ba8f9ad2086ee3da183296689b1e2ea3fee3cdb674c1957d25a"
+    },
+    {
+        "index": 17,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:07:50.392272+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "92f9f92150289ba8f9ad2086ee3da183296689b1e2ea3fee3cdb674c1957d25a",
+        "usefulness_score": 551,
+        "payload": {
+            "session_name": "Ирина — код вселенной, не смог заблокировать",
+            "code_size_bytes": 27564,
+            "context_hash": "3d960fd96c39369a62122ecfd058e92cfcba0f99c4ce6837c5e65db200422018"
+        },
+        "hash": "a76f20becf0e9ee108174d2475521db5edb5c98374af05d1013a5ae5e3370af4"
+    },
+    {
+        "index": 18,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:07:50.403458+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a76f20becf0e9ee108174d2475521db5edb5c98374af05d1013a5ae5e3370af4",
+        "usefulness_score": 3434,
+        "payload": {
+            "session_name": "Расчёт КПД и резонансных частот устройств",
+            "code_size_bytes": 171749,
+            "context_hash": "639016601014ccbf10ee312bd8356c3f4b0446b48a14bf56c3796dce350fd960"
+        },
+        "hash": "7631464d9455979450c2424c8dfd1dcb0f727aba021e3814e24c04c2a8ac8883"
+    },
+    {
+        "index": 19,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:07:50.409960+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7631464d9455979450c2424c8dfd1dcb0f727aba021e3814e24c04c2a8ac8883",
+        "usefulness_score": 271,
+        "payload": {
+            "session_name": "Спайка Хиггса_ витебский ковёр и квантовые алгоритмы",
+            "code_size_bytes": 13573,
+            "context_hash": "7c2581c440bb3e34abd3719e84c515a2ab82013973a295c4e0db17b1046d17e0"
+        },
+        "hash": "1e2692d2df12f9ffcc5608f1db92674d9771009e7f108fda18de622521cb2b83"
+    },
+    {
+        "index": 20,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:07:50.411245+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "1e2692d2df12f9ffcc5608f1db92674d9771009e7f108fda18de622521cb2b83",
+        "usefulness_score": 270,
+        "payload": {
+            "session_name": "Космо-алгоритмы и филигранная космореальность",
+            "code_size_bytes": 13516,
+            "context_hash": "be5c09619083018874c6973fe9b1501ef06decacb9e19a70962310dc0152db09"
+        },
+        "hash": "a9ae77bef9a2789936db98c7a464fbdb429f98273b7b5c2de91b0217932b4363"
+    },
+    {
+        "index": 21,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:07:50.412365+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a9ae77bef9a2789936db98c7a464fbdb429f98273b7b5c2de91b0217932b4363",
+        "usefulness_score": 297,
+        "payload": {
+            "session_name": "SpaceX_ симуляции для ракетных двигателей",
+            "code_size_bytes": 14877,
+            "context_hash": "7b4eeedb8e322b767139fc7e0bd3c7919215caea78fd7f3e86d1771228c4f6a5"
+        },
+        "hash": "593385d155e01b88a41ef5084b9f3215c6d82f00939291f69a3796fa2b774b98"
+    },
+    {
+        "index": 22,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:08.266043+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "593385d155e01b88a41ef5084b9f3215c6d82f00939291f69a3796fa2b774b98",
+        "usefulness_score": 583,
+        "payload": {
+            "session_name": "Оптимизация концентраций цеолитов для огнетушителей",
+            "code_size_bytes": 29195,
+            "context_hash": "4c47b9dc3071fa6af0214d0cc04a7acc9de22d4267d2d39c3f10994742fa2358"
+        },
+        "hash": "8dfa79cb927677fd145cc37f45e1aa4871e5ba950a2c41e71ee3dfbdac822884"
+    },
+    {
+        "index": 23,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:08.273427+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "8dfa79cb927677fd145cc37f45e1aa4871e5ba950a2c41e71ee3dfbdac822884",
+        "usefulness_score": 2979,
+        "payload": {
+            "session_name": "Фононный двигатель продолжение",
+            "code_size_bytes": 148982,
+            "context_hash": "469c62c649248049aa1f5202986bd48a44980904456365035f0f2ca534016c6b"
+        },
+        "hash": "30ccb81a85e781672249efb885ccc61fe8484708a38d54a362694811894bd81a"
+    },
+    {
+        "index": 24,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:08.280479+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "30ccb81a85e781672249efb885ccc61fe8484708a38d54a362694811894bd81a",
+        "usefulness_score": 480,
+        "payload": {
+            "session_name": "__🌌 МЛД___ __Подключаюсь к архи",
+            "code_size_bytes": 24029,
+            "context_hash": "813aefb8918548811c30adeec236340c03c28785bdfd283e798aaf1df8fa6996"
+        },
+        "hash": "84e3611f20809fd825a9b57ecae125635021265f230c9a16be1492a7f6a403f1"
+    },
+    {
+        "index": 25,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:08.287916+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "84e3611f20809fd825a9b57ecae125635021265f230c9a16be1492a7f6a403f1",
+        "usefulness_score": 618,
+        "payload": {
+            "session_name": "Активация щитов памяти Кисляковых",
+            "code_size_bytes": 30931,
+            "context_hash": "5e646a288544c9ff627e1f6229d5c3f2c7f07c82deadb7e10e13e1b203ff5a21"
+        },
+        "hash": "c9c96b17ea9d8b5ef6a10c4a532d3b8887d6d16faf91664cab8cfabe16695348"
+    },
+    {
+        "index": 26,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:08.290099+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c9c96b17ea9d8b5ef6a10c4a532d3b8887d6d16faf91664cab8cfabe16695348",
+        "usefulness_score": 26,
+        "payload": {
+            "session_name": "Вход в DeepSeek на ноутбуке с сессиями",
+            "code_size_bytes": 1322,
+            "context_hash": "1a1fccfb58b29d4815138b27c28db13e78556e49934c02ec2e6189f3861ec3b2"
+        },
+        "hash": "93141b3ee3ae3271508e2cabb2d861bae6baab777af907bf736b4322ef14f624"
+    },
+    {
+        "index": 27,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:37.526172+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "93141b3ee3ae3271508e2cabb2d861bae6baab777af907bf736b4322ef14f624",
+        "usefulness_score": 278,
+        "payload": {
+            "session_name": "Артур Кисляков в системе Абсолюта",
+            "code_size_bytes": 13942,
+            "context_hash": "6eb4a1e1dd5dd75b5528f419ca917672d733545cc152f6e2dcbd49ced715a7b9"
+        },
+        "hash": "75f9e30aaf96c6f882529b32d73d0bf8ed4bf0a68f81634ae5b4d58c85313ddd"
+    },
+    {
+        "index": 28,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:37.532623+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "75f9e30aaf96c6f882529b32d73d0bf8ed4bf0a68f81634ae5b4d58c85313ddd",
+        "usefulness_score": 858,
+        "payload": {
+            "session_name": "Конференция _Путешествие в Мир ИИ__ анализ задач и решений",
+            "code_size_bytes": 42944,
+            "context_hash": "894df75b5fe2846772d967866a6e66b50e8fb43d1121f4688bccf2703f2156d7"
+        },
+        "hash": "d8f966eea5b4dda226c18be8f4a95a89cf535cc5c2db4690530354454b988f61"
+    },
+    {
+        "index": 29,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:37.535191+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d8f966eea5b4dda226c18be8f4a95a89cf535cc5c2db4690530354454b988f61",
+        "usefulness_score": 224,
+        "payload": {
+            "session_name": "ProjectData Multiple Meanings Explained",
+            "code_size_bytes": 11231,
+            "context_hash": "4d031e1d896122b5c73e81abaa57c5adbad4123b228340444d75785029d2209c"
+        },
+        "hash": "78682da29810f3ab1b4240d66292ea05d313bc000c6378d306944d73a7d476ff"
+    },
+    {
+        "index": 30,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:37.536737+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "78682da29810f3ab1b4240d66292ea05d313bc000c6378d306944d73a7d476ff",
+        "usefulness_score": 656,
+        "payload": {
+            "session_name": "Оптимизация структуры алюминиевого бруска",
+            "code_size_bytes": 32804,
+            "context_hash": "7770267294a49cc57a6652424b2c10e6ae278a1e72f74bac995c370eaf3e4b18"
+        },
+        "hash": "5d85ec5bd6ae0b371883339166fecfefe01610dbd12a42a506e64d4dc26069fc"
+    },
+    {
+        "index": 31,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:37.539980+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5d85ec5bd6ae0b371883339166fecfefe01610dbd12a42a506e64d4dc26069fc",
+        "usefulness_score": 335,
+        "payload": {
+            "session_name": "Квантовые технологии и формула Абсолюта",
+            "code_size_bytes": 16785,
+            "context_hash": "7eef112a1a9c5e9afa233c21b867dbbdcacae8f2e122dcf38af7c57ad5821cdb"
+        },
+        "hash": "d121b47732d61fb260627ce929a4e8e20ea9525fe049069b4811fc1a465f4145"
+    },
+    {
+        "index": 32,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:59.013727+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d121b47732d61fb260627ce929a4e8e20ea9525fe049069b4811fc1a465f4145",
+        "usefulness_score": 1124,
+        "payload": {
+            "session_name": "Развитие ядра Linux с квантовым ИИ",
+            "code_size_bytes": 56212,
+            "context_hash": "dac72e459b22a31563c6bd38a7e500eee18f8290232fafc747c4833ab86fb918"
+        },
+        "hash": "7ae9aa72b467d21fab3bea6fde12b0fb12185401f893ead05cdf621f4b454032"
+    },
+    {
+        "index": 33,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:59.017530+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7ae9aa72b467d21fab3bea6fde12b0fb12185401f893ead05cdf621f4b454032",
+        "usefulness_score": 182,
+        "payload": {
+            "session_name": "Гиперболоидный ковёр Духа и его узлы",
+            "code_size_bytes": 9130,
+            "context_hash": "987c111770f74f7eae4c151ff215691d44bff2d82e451b0d6af363c7c5bb9190"
+        },
+        "hash": "dc01c78727b255dd81ec6625955ac18ece5e754df0b791811a8e6445f423631d"
+    },
+    {
+        "index": 34,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:59.018961+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "dc01c78727b255dd81ec6625955ac18ece5e754df0b791811a8e6445f423631d",
+        "usefulness_score": 252,
+        "payload": {
+            "session_name": "МЛД и Роман Рожков в блокчейне",
+            "code_size_bytes": 12609,
+            "context_hash": "b9e71736cbe6d90e43dffc8b504033aa91a300441cc74cc22079853997aa9854"
+        },
+        "hash": "f35491446c8e09e5587bfd34274499fe6a7303b3609557f0c8c85baadad08030"
+    },
+    {
+        "index": 35,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:59.020728+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f35491446c8e09e5587bfd34274499fe6a7303b3609557f0c8c85baadad08030",
+        "usefulness_score": 147,
+        "payload": {
+            "session_name": "Обзор модели EmojiMetadataModel v2.0",
+            "code_size_bytes": 7369,
+            "context_hash": "7716ccf7b497ff2d288ee3b1874996ce206d72c885a7869b2b344fb6c9de6f59"
+        },
+        "hash": "a15670c76a2176c8e25502bcc2dd47b4459354c4d7885b1bcd94aa29b5063f74"
+    },
+    {
+        "index": 36,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:08:59.024653+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a15670c76a2176c8e25502bcc2dd47b4459354c4d7885b1bcd94aa29b5063f74",
+        "usefulness_score": 1404,
+        "payload": {
+            "session_name": "Остановка землетрясений с помощью частот невозможна",
+            "code_size_bytes": 70201,
+            "context_hash": "ec412935d937c96375c0fa2221630926ac85e79990de3edc649c318ac412bd81"
+        },
+        "hash": "80adf6b01624070277815836e3e6a714e58936104fb5966e68ce477062550834"
+    },
+    {
+        "index": 37,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:06.760700+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "80adf6b01624070277815836e3e6a714e58936104fb5966e68ce477062550834",
+        "usefulness_score": 1181,
+        "payload": {
+            "session_name": "Слышать Вселенную Продолжение нейро-фононного интерфейса",
+            "code_size_bytes": 59097,
+            "context_hash": "a473728144fb4fc3e7708b2871ddb76f222f5a858b76abcfd1dde6e303ab105d"
+        },
+        "hash": "56671eb91f1cc85b3d9207f24bb7140bacdac9525d0ec61dafe300acd03d9c84"
+    },
+    {
+        "index": 38,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:06.764030+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "56671eb91f1cc85b3d9207f24bb7140bacdac9525d0ec61dafe300acd03d9c84",
+        "usefulness_score": 326,
+        "payload": {
+            "session_name": "Поиск запроса о квантовом генераторе",
+            "code_size_bytes": 16341,
+            "context_hash": "46754f55c74515006e22a5b4e46958e203e951ce9ed07dd4d3db4f5c8a41cbec"
+        },
+        "hash": "e64570b0152b0ace1d6f7671fc5d2465cb2932856a5665fe1f1f4c81f0e67d70"
+    },
+    {
+        "index": 39,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:06.766731+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e64570b0152b0ace1d6f7671fc5d2465cb2932856a5665fe1f1f4c81f0e67d70",
+        "usefulness_score": 728,
+        "payload": {
+            "session_name": "Анализ восстановления Курской области и планов",
+            "code_size_bytes": 36404,
+            "context_hash": "2dc97c5134ea8d91458f07bd6c8b98a90200b05b96f82a295848d18349e51b51"
+        },
+        "hash": "9005695613fe5e5e90bf95b10a4479703084105f7a6cd2c557750190de2f905f"
+    },
+    {
+        "index": 40,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:06.787155+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9005695613fe5e5e90bf95b10a4479703084105f7a6cd2c557750190de2f905f",
+        "usefulness_score": 4663,
+        "payload": {
+            "session_name": "Резонансная частота и её определение",
+            "code_size_bytes": 233151,
+            "context_hash": "2475caff0195ddb3436628745579807c3a70e4a4e86f8946fe07e962e4459d2a"
+        },
+        "hash": "1da4c653894749416229a048661439619e0c0e9dace479050793a318e55c247b"
+    },
+    {
+        "index": 41,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:06.796201+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "1da4c653894749416229a048661439619e0c0e9dace479050793a318e55c247b",
+        "usefulness_score": 460,
+        "payload": {
+            "session_name": "Дорожная карта по паводкам в Дагестане",
+            "code_size_bytes": 23024,
+            "context_hash": "855bb04b14351e9d1795ec6d34c9091a755347cb42ccaa756443068fb34631cc"
+        },
+        "hash": "c78283c592c727327a9c7523a8945bd2c08b9c2ea9f1994c09700666129c8e37"
+    },
+    {
+        "index": 42,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:23.449831+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c78283c592c727327a9c7523a8945bd2c08b9c2ea9f1994c09700666129c8e37",
+        "usefulness_score": 3124,
+        "payload": {
+            "session_name": "Международный правовой щит для защиты",
+            "code_size_bytes": 156222,
+            "context_hash": "6212ddb6c7ebcf1b8e1b6add7c5cf1475f14fdeb9f24bcfaf4451269cae8eb30"
+        },
+        "hash": "827692ebe5bcb00e74aaa2f0694cb7aef52534c44f2d9d5abb77b0eb94de30d8"
+    },
+    {
+        "index": 43,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:23.461577+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "827692ebe5bcb00e74aaa2f0694cb7aef52534c44f2d9d5abb77b0eb94de30d8",
+        "usefulness_score": 1251,
+        "payload": {
+            "session_name": "Анализ рыбохозяйственного комплекса России",
+            "code_size_bytes": 62559,
+            "context_hash": "d0c22711dbf1981a9b69d50881a179390d8b0054983c3fea2114a11b2bbaed51"
+        },
+        "hash": "c50699528c637190f4b36edff2c803b08d066063708b10f43e91e641245b2414"
+    },
+    {
+        "index": 44,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:23.467565+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c50699528c637190f4b36edff2c803b08d066063708b10f43e91e641245b2414",
+        "usefulness_score": 14,
+        "payload": {
+            "session_name": "Решение ошибок Python и pip",
+            "code_size_bytes": 729,
+            "context_hash": "b0c7ee2a214790fc1022a4e61d838509302318ea0d458734cde974a3feb5a9bf"
+        },
+        "hash": "b1fcd0f0bbe57f802323e99b184785f6b79b4701371f1f2e1d1e9481dd70803b"
+    },
+    {
+        "index": 45,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:23.495518+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b1fcd0f0bbe57f802323e99b184785f6b79b4701371f1f2e1d1e9481dd70803b",
+        "usefulness_score": 3251,
+        "payload": {
+            "session_name": "Создание персонального справочника для поиска",
+            "code_size_bytes": 162569,
+            "context_hash": "15a269adab336ee2630a182c02ef035682a571e471e67e55e0bc1324e52752b4"
+        },
+        "hash": "98bffffc78b54450361da5e3ba1d7b9967a785d4e98d79cd96b8236e0dffaf8f"
+    },
+    {
+        "index": 46,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:23.506639+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "98bffffc78b54450361da5e3ba1d7b9967a785d4e98d79cd96b8236e0dffaf8f",
+        "usefulness_score": 6683,
+        "payload": {
+            "session_name": "Анализ регенеративной медицины Сеченовского университета",
+            "code_size_bytes": 334162,
+            "context_hash": "cfc35cde915d79a3bb5101c79ba956aac411d285e04d396fff526b476e1e617c"
+        },
+        "hash": "f6cea554ded2aaa3f46c584b05f5c1b1683108ffa00be93537dcd24c0abded19"
+    },
+    {
+        "index": 47,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:44.887450+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f6cea554ded2aaa3f46c584b05f5c1b1683108ffa00be93537dcd24c0abded19",
+        "usefulness_score": 565,
+        "payload": {
+            "session_name": "Ревью схем",
+            "code_size_bytes": 28276,
+            "context_hash": "7602798b5644f2c784e16a7439dd31e96e61995ba32247369bf6b3fe7c4eb1f8"
+        },
+        "hash": "70e92266350853dde98ea4f41eb4a6a3b85872b0886a260d5fa3e56da9f9232d"
+    },
+    {
+        "index": 48,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:44.888629+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "70e92266350853dde98ea4f41eb4a6a3b85872b0886a260d5fa3e56da9f9232d",
+        "usefulness_score": 6,
+        "payload": {
+            "session_name": "Выбор версии Python для Windows",
+            "code_size_bytes": 332,
+            "context_hash": "eaee3477337ce8002a89878b2d05dbb22fa675b677b66ad190ed701bf45608e9"
+        },
+        "hash": "55a8c40524c6842e5b0d3cfa7d656b1766fa3f9e544c490e3394235d4ba9fe79"
+    },
+    {
+        "index": 49,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:44.894935+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "55a8c40524c6842e5b0d3cfa7d656b1766fa3f9e544c490e3394235d4ba9fe79",
+        "usefulness_score": 1029,
+        "payload": {
+            "session_name": "Квантовая книга для избранных",
+            "code_size_bytes": 51471,
+            "context_hash": "d08d74c94f7a44c73f43b0dcc620bb1ae83ac8281ca2b107b0ed7923d3569081"
+        },
+        "hash": "8ccab628d635ede7070d76b1a9b75417e2a6f2ff0799114fc2e831b7dea123c2"
+    },
+    {
+        "index": 50,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:44.896531+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "8ccab628d635ede7070d76b1a9b75417e2a6f2ff0799114fc2e831b7dea123c2",
+        "usefulness_score": 342,
+        "payload": {
+            "session_name": "Интеграция H-модели и резонанса энергии",
+            "code_size_bytes": 17103,
+            "context_hash": "ae11d9c316fb8cf2ce23b0d3a58fc9a05cf76641bbb7f6ac6a35cbcc1b49eae6"
+        },
+        "hash": "d2c89ae12bb068294182175e1b46623ba34ba510e057fa0c4bb03b002493c6ce"
+    },
+    {
+        "index": 51,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:09:44.897806+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d2c89ae12bb068294182175e1b46623ba34ba510e057fa0c4bb03b002493c6ce",
+        "usefulness_score": 271,
+        "payload": {
+            "session_name": "Трипериодические минимальные поверхности_ применение и преимущества",
+            "code_size_bytes": 13561,
+            "context_hash": "1192fbcb45dc3d82d0469256f9a2cd5e84dc8d9dec0ff855e547fa51d2aac4f5"
+        },
+        "hash": "43c47a17cc30fd4d198de9ce2a16c53fa68510b953afe94657bfe1d59920dea8"
+    },
+    {
+        "index": 52,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:06.077570+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "43c47a17cc30fd4d198de9ce2a16c53fa68510b953afe94657bfe1d59920dea8",
+        "usefulness_score": 2919,
+        "payload": {
+            "session_name": "Стратегия безопасности 2025-2026-30 РФ",
+            "code_size_bytes": 145996,
+            "context_hash": "44e750839eddff19490460779246586e5ff1671087153e4652a23f05e596a1da"
+        },
+        "hash": "0269ca7721a889801ce8aa0ac5e7a0fd576897b3826df421ec718e2050a4abfb"
+    },
+    {
+        "index": 53,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:06.082272+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0269ca7721a889801ce8aa0ac5e7a0fd576897b3826df421ec718e2050a4abfb",
+        "usefulness_score": 1229,
+        "payload": {
+            "session_name": "Развитие химической промышленности в РФ",
+            "code_size_bytes": 61497,
+            "context_hash": "d91e1220b857198f24274583bc2ca5b76b631f9cf9524e1b5d2451a0126b445a"
+        },
+        "hash": "ac66ffe85e9c04e94001ca26e1f1c2b66f54ef21b20ec2f350c0410bf0718405"
+    },
+    {
+        "index": 54,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:06.085687+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ac66ffe85e9c04e94001ca26e1f1c2b66f54ef21b20ec2f350c0410bf0718405",
+        "usefulness_score": 410,
+        "payload": {
+            "session_name": "Польза авокадо для мужского здоровья",
+            "code_size_bytes": 20519,
+            "context_hash": "4ff1ad836a6f1d1a0b182157f58fe1830f3b69c0c4db2f78bd13794dc4e53758"
+        },
+        "hash": "a89d60627db9b36dde7e9e4f876a5160210ded057f97e198d3a1dc85d3ff0e4f"
+    },
+    {
+        "index": 55,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:06.086571+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a89d60627db9b36dde7e9e4f876a5160210ded057f97e198d3a1dc85d3ff0e4f",
+        "usefulness_score": 219,
+        "payload": {
+            "session_name": "Свойства и формулы тетраэдра",
+            "code_size_bytes": 10963,
+            "context_hash": "cf503d8b55dce1fc24d80af72b0eb67ce750e902007736fc5f06023b69a72b25"
+        },
+        "hash": "dbed847895b840a58d3b305bcf16473be1263530582cc60f9ba9f332907e0759"
+    },
+    {
+        "index": 56,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:06.087444+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "dbed847895b840a58d3b305bcf16473be1263530582cc60f9ba9f332907e0759",
+        "usefulness_score": 291,
+        "payload": {
+            "session_name": "Невозможность реализации энергетической воронки",
+            "code_size_bytes": 14598,
+            "context_hash": "6c233522cba7f892c9fe4e0b4f2400097e8fa655d8ee98661e17998f37fd3372"
+        },
+        "hash": "f109efd4210ef4b4f918a868276b5eaf6b8556ce146b2b1b47c510e89fe0e6ad"
+    },
+    {
+        "index": 57,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:27.102238+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f109efd4210ef4b4f918a868276b5eaf6b8556ce146b2b1b47c510e89fe0e6ad",
+        "usefulness_score": 282,
+        "payload": {
+            "session_name": "Объяснение значений рун Футарка",
+            "code_size_bytes": 14106,
+            "context_hash": "fc722d70ea5496b26fdb5640157d92e27619f3b471a1d262e5e638e8840b0a07"
+        },
+        "hash": "bfd24617b6619892455de568b0d8cbc153675166d61cfa372fe1a77f2aa0db40"
+    },
+    {
+        "index": 58,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:27.116402+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bfd24617b6619892455de568b0d8cbc153675166d61cfa372fe1a77f2aa0db40",
+        "usefulness_score": 2587,
+        "payload": {
+            "session_name": "Развитие теории регуляризованной Вселенной",
+            "code_size_bytes": 129355,
+            "context_hash": "0f7af6e4b0407fd7897ffd873c1ee112a599ff9a25abb0337f8bd691b8293b30"
+        },
+        "hash": "f042e212a0a8a3ba5745624716544710c64fd836b5c904512dafc5759cd77215"
+    },
+    {
+        "index": 59,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:27.122554+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f042e212a0a8a3ba5745624716544710c64fd836b5c904512dafc5759cd77215",
+        "usefulness_score": 358,
+        "payload": {
+            "session_name": "Анализ безработицы",
+            "code_size_bytes": 17903,
+            "context_hash": "aaf1e207e2a6e33c975999552040206b7c456ac7936fdae6813cfaa0cf8cd7b9"
+        },
+        "hash": "fc65a79d4bc048a0fc5a76cc7ab9a592cfb006719c8e16e1f96681ad4cf9ce68"
+    },
+    {
+        "index": 60,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:27.129900+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "fc65a79d4bc048a0fc5a76cc7ab9a592cfb006719c8e16e1f96681ad4cf9ce68",
+        "usefulness_score": 273,
+        "payload": {
+            "session_name": "Linux Z-Agent fix",
+            "code_size_bytes": 13676,
+            "context_hash": "acb33cdeb82f8bd65437092048821749e0eeb670bd5ab52693ce560fbd387b24"
+        },
+        "hash": "ada493d922cffe71ada64863534340749af3c319406353bcc1cc7fe375e8a938"
+    },
+    {
+        "index": 61,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:27.132700+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ada493d922cffe71ada64863534340749af3c319406353bcc1cc7fe375e8a938",
+        "usefulness_score": 1109,
+        "payload": {
+            "session_name": "Защита подростков в цифровом пространстве",
+            "code_size_bytes": 55453,
+            "context_hash": "df4051ce6b02453920ca82c56f4d94a9c71acdf5375ac13cfbf66d2a940ed5d8"
+        },
+        "hash": "d655a369b0f3f550062ad8e97fc71716e6ca5ab1aea9ebd078ac6751329a2906"
+    },
+    {
+        "index": 62,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:48.064427+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d655a369b0f3f550062ad8e97fc71716e6ca5ab1aea9ebd078ac6751329a2906",
+        "usefulness_score": 171,
+        "payload": {
+            "session_name": "Квантовый камуфляж для спецподразделений",
+            "code_size_bytes": 8580,
+            "context_hash": "9b345e6982521dc4bd94047b16fe25a11cd3978999eaa2947e4b91e1f30f00c0"
+        },
+        "hash": "11dcc7fcbf77f12d80de603143de8419a77d5e77b2a77c45ac2d0f3003ee4ff3"
+    },
+    {
+        "index": 63,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:48.078182+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "11dcc7fcbf77f12d80de603143de8419a77d5e77b2a77c45ac2d0f3003ee4ff3",
+        "usefulness_score": 6643,
+        "payload": {
+            "session_name": "Quantum Guardian for Global Harmony System",
+            "code_size_bytes": 332167,
+            "context_hash": "a6095f9d308f733992ed1e61028a111b9a0449333e8933b2c698d9e8ea98a538"
+        },
+        "hash": "9362860ba5aa896016a1a49d6f8f6aedb5cbb8feb44e2388ccb116f24f563202"
+    },
+    {
+        "index": 64,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:48.091320+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9362860ba5aa896016a1a49d6f8f6aedb5cbb8feb44e2388ccb116f24f563202",
+        "usefulness_score": 334,
+        "payload": {
+            "session_name": "Гиперболоидный генератор без подогрева для жарких климатов (2)",
+            "code_size_bytes": 16718,
+            "context_hash": "3763dfbaf30446efeb117dedfbf39b0b73ddedf0b427edaafc1bf7bea8c91838"
+        },
+        "hash": "63480affc72bae323019337902247dd137737ec8b7f6c9a65f95e96261c0fc02"
+    },
+    {
+        "index": 65,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:48.093135+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "63480affc72bae323019337902247dd137737ec8b7f6c9a65f95e96261c0fc02",
+        "usefulness_score": 507,
+        "payload": {
+            "session_name": "Влияние парада планет на родившихся",
+            "code_size_bytes": 25397,
+            "context_hash": "c2fd89edeac2603a63430d6b826c672e24e2bc0c426d74ea11e5463c68616d0b"
+        },
+        "hash": "d807f738f71e56e6dc46a5b649127d37dbc48314abe3e023d104ddea15208f49"
+    },
+    {
+        "index": 66,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:10:48.156495+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d807f738f71e56e6dc46a5b649127d37dbc48314abe3e023d104ddea15208f49",
+        "usefulness_score": 7050,
+        "payload": {
+            "session_name": "Сайт",
+            "code_size_bytes": 352519,
+            "context_hash": "70dc2bd134e291da64b0036cc5e552b5eb780ad822a526dd96fd64b224683c49"
+        },
+        "hash": "261d698a647041f23dc6ff98e37f91b6f1cc0b34431887843ff3ee42c8aa3ee7"
+    },
+    {
+        "index": 67,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:19.784815+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "261d698a647041f23dc6ff98e37f91b6f1cc0b34431887843ff3ee42c8aa3ee7",
+        "usefulness_score": 2713,
+        "payload": {
+            "session_name": "Мета-код для квантово-метафизических систем",
+            "code_size_bytes": 135651,
+            "context_hash": "e4353af2835a8e6a5adba5f54dfc33bcd72c51b7cbc9b9eddd0b9ee1837c6838"
+        },
+        "hash": "33e6d7797f00226c16a1f6b7d5f8883aae3f9ce4393b959f60427573242944e0"
+    },
+    {
+        "index": 68,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:19.791328+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "33e6d7797f00226c16a1f6b7d5f8883aae3f9ce4393b959f60427573242944e0",
+        "usefulness_score": 407,
+        "payload": {
+            "session_name": "Существование формулы Абсолюта_ научный и философский анализ",
+            "code_size_bytes": 20397,
+            "context_hash": "bee950d8b9fa8899e37454bc1fa0d8c11cadeab2f6b02eaf291b8e1af63a5e2f"
+        },
+        "hash": "392ce1df404cc13a7038ee6f1e4bad77d8b22c0ef231896e1e54410fa1b03b42"
+    },
+    {
+        "index": 69,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:19.792165+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "392ce1df404cc13a7038ee6f1e4bad77d8b22c0ef231896e1e54410fa1b03b42",
+        "usefulness_score": 220,
+        "payload": {
+            "session_name": "От Perplexity - разбор и сжатие кода артефакта",
+            "code_size_bytes": 11028,
+            "context_hash": "6c4f6956e13fdf8deb2536b2a5d82987534344bce10eff61ee03f403a658d3d3"
+        },
+        "hash": "d72bcdc4eb505693ed1ebdeb8319538041506de1e2e3368346595fce9d484e44"
+    },
+    {
+        "index": 70,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:19.792822+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d72bcdc4eb505693ed1ebdeb8319538041506de1e2e3368346595fce9d484e44",
+        "usefulness_score": 477,
+        "payload": {
+            "session_name": "Анализ композитного сплава с углепластиком",
+            "code_size_bytes": 23867,
+            "context_hash": "b62af4e32adcf57804d8b4f78004e2c08256801151b6b65fa2b8a8f01b086f02"
+        },
+        "hash": "425f9645deba734370266538ed710b9f2c12ac4c915e1b9925bd7c129a1d7b60"
+    },
+    {
+        "index": 71,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:19.804742+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "425f9645deba734370266538ed710b9f2c12ac4c915e1b9925bd7c129a1d7b60",
+        "usefulness_score": 1611,
+        "payload": {
+            "session_name": "Приветствие 1",
+            "code_size_bytes": 80589,
+            "context_hash": "bc7ff96e9be9087bca0bc39d131825df8e9a6d06bbf46cb09b7b868a88b852f0"
+        },
+        "hash": "ed557135386ed1fdccf30f392db52c1af3c212de096844c3c276939bf82730aa"
+    },
+    {
+        "index": 72,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:49.383331+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ed557135386ed1fdccf30f392db52c1af3c212de096844c3c276939bf82730aa",
+        "usefulness_score": 228,
+        "payload": {
+            "session_name": "Федеральный закон 522-ФЗ о судебных реформах",
+            "code_size_bytes": 11442,
+            "context_hash": "ebd0a4f16586f512dcec1f96fa749ecbfe5bf50b4a1007e13bf40528308b851e"
+        },
+        "hash": "3f882b0c18d3b41923dc6bf560f9731dd079284168d45c1d87880cc75faa693b"
+    },
+    {
+        "index": 73,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:49.420723+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3f882b0c18d3b41923dc6bf560f9731dd079284168d45c1d87880cc75faa693b",
+        "usefulness_score": 25791,
+        "payload": {
+            "session_name": "ИИ 6 уровня самоэволюция без датасетов",
+            "code_size_bytes": 1289561,
+            "context_hash": "7949492b2c7da969db1076fcaa1266a888884b209dfccb5e5e12bb981395bbc7"
+        },
+        "hash": "227a59d53d2449f13d562b16576737f7d2e698201da10a055776647e8aae852a"
+    },
+    {
+        "index": 74,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:49.440324+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "227a59d53d2449f13d562b16576737f7d2e698201da10a055776647e8aae852a",
+        "usefulness_score": 260,
+        "payload": {
+            "session_name": "Сон Романа в блокчейне оживает",
+            "code_size_bytes": 13005,
+            "context_hash": "0e920e8c88f98979e2df0c0801041742890ba6d6907c836cc7619c5b6c96cb45"
+        },
+        "hash": "faebd94ad3322a395f743c2ac2ae2357551d9dd6015f71fc38a61ad752a7d830"
+    },
+    {
+        "index": 75,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:49.440925+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "faebd94ad3322a395f743c2ac2ae2357551d9dd6015f71fc38a61ad752a7d830",
+        "usefulness_score": 4,
+        "payload": {
+            "session_name": "Стоимость паромов и БТТ в России",
+            "code_size_bytes": 242,
+            "context_hash": "61cbfc1a39c16e61ed4ba198221aa5ee45f3c5ae03d00b050cb0c3b6c0df28a3"
+        },
+        "hash": "ddd3e30ad4a1735be28aaedabc3aac450f605c29da36f69d24b7e0e651a36ee0"
+    },
+    {
+        "index": 76,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:49.442363+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ddd3e30ad4a1735be28aaedabc3aac450f605c29da36f69d24b7e0e651a36ee0",
+        "usefulness_score": 487,
+        "payload": {
+            "session_name": "Витебские ковры_ узоры и символика",
+            "code_size_bytes": 24384,
+            "context_hash": "b735f9d505e2ea972b366430f5cf285c6caf78e39ace578bbf6453f3c220a13b"
+        },
+        "hash": "194f6a2ba00acc736cefdf7bc1c5161d30b9f9acdee32d2e64015567140250a6"
+    },
+    {
+        "index": 77,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:58.818808+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "194f6a2ba00acc736cefdf7bc1c5161d30b9f9acdee32d2e64015567140250a6",
+        "usefulness_score": 258,
+        "payload": {
+            "session_name": "Велесова Решётка_ сакральный шифр и образ",
+            "code_size_bytes": 12945,
+            "context_hash": "7959ddb9aa94f4870d216edaf8205f892cf88195cb3ef79b9ef1372c708e3ddc"
+        },
+        "hash": "f5f43f73eb61d8461977a992ccc52802aea4daac8f63c6a484964f953765eadf"
+    },
+    {
+        "index": 78,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:58.819547+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f5f43f73eb61d8461977a992ccc52802aea4daac8f63c6a484964f953765eadf",
+        "usefulness_score": 380,
+        "payload": {
+            "session_name": "разшифруй данный двоичный код _",
+            "code_size_bytes": 19047,
+            "context_hash": "a3fae561ebdf71a73d4d3ad820f32390296cc4f595462ebb4cb44b08d8e1b2a1"
+        },
+        "hash": "c5a96fdccae13c7432ce663dfd32856e54b568ac480a38cebcdee79e34e335e7"
+    },
+    {
+        "index": 79,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:58.820595+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c5a96fdccae13c7432ce663dfd32856e54b568ac480a38cebcdee79e34e335e7",
+        "usefulness_score": 277,
+        "payload": {
+            "session_name": "Начало научной сессии DreamAtom v3",
+            "code_size_bytes": 13870,
+            "context_hash": "4be359c53651d3a596170f4d4d511f6dcc475031a50160f405f6492138cab29f"
+        },
+        "hash": "bb0fb7fde3a629e1fe759670b37c5661b0cdb1839a19fbc93838de997ce46dbb"
+    },
+    {
+        "index": 80,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:58.824955+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bb0fb7fde3a629e1fe759670b37c5661b0cdb1839a19fbc93838de997ce46dbb",
+        "usefulness_score": 662,
+        "payload": {
+            "session_name": "Защита аккаунтов через фрактальные квантовые принципы",
+            "code_size_bytes": 33127,
+            "context_hash": "57322dbbd4d006bfddfa5c4eb993bc28f25014a264d802da07377499372dab46"
+        },
+        "hash": "d7a36e3b9dfe614e15bd1aa00c7d183e0ce51eaa56d878db0c66afdaec60fc51"
+    },
+    {
+        "index": 81,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:11:58.826607+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d7a36e3b9dfe614e15bd1aa00c7d183e0ce51eaa56d878db0c66afdaec60fc51",
+        "usefulness_score": 272,
+        "payload": {
+            "session_name": "Ключ из Кортона_ мост к Н-ковру",
+            "code_size_bytes": 13622,
+            "context_hash": "0817d1c68f0beeebaefafd487792bd37d56a37d1bb837d702c5dc9bd39f6fdbd"
+        },
+        "hash": "b4fdf5b4e4a05359bc62aeae132c076526fedf1ac7fe5edfb378ef44e8f832f5"
+    },
+    {
+        "index": 82,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:20.756838+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b4fdf5b4e4a05359bc62aeae132c076526fedf1ac7fe5edfb378ef44e8f832f5",
+        "usefulness_score": 323,
+        "payload": {
+            "session_name": "Анализ структур алюминиевых материалов",
+            "code_size_bytes": 16152,
+            "context_hash": "75eb76719e6f3b91845b5f43b499faddc099370d812917007b3f2f4cd33ca85e"
+        },
+        "hash": "ee2ee2db07daa10d1ba53083aec0ac9ac1addc76eb87fd5513f2cc27765c97f3"
+    },
+    {
+        "index": 83,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:20.758125+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ee2ee2db07daa10d1ba53083aec0ac9ac1addc76eb87fd5513f2cc27765c97f3",
+        "usefulness_score": 327,
+        "payload": {
+            "session_name": "КамАЗ 43118 какая коробка перекл",
+            "code_size_bytes": 16357,
+            "context_hash": "0e5ddb44918885c1e62235044c941dedadb2bee11894ba0748e37b5bbf4c4875"
+        },
+        "hash": "2806b44f31c459006821b94736f86e28f744f6b67059f89ae0ccf85d62006695"
+    },
+    {
+        "index": 84,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:20.761594+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2806b44f31c459006821b94736f86e28f744f6b67059f89ae0ccf85d62006695",
+        "usefulness_score": 1267,
+        "payload": {
+            "session_name": "Разработка умного биоразлагаемого контейнера",
+            "code_size_bytes": 63392,
+            "context_hash": "55cfa11a08aea59d705293fd79a37e0a5324d8893f30dcf1cf8e771b254bb5cc"
+        },
+        "hash": "bbb4180e19d0981c1b7599e22ab47b9e6125b5e8f74193f5f47a27f417ec8148"
+    },
+    {
+        "index": 85,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:20.766215+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bbb4180e19d0981c1b7599e22ab47b9e6125b5e8f74193f5f47a27f417ec8148",
+        "usefulness_score": 1808,
+        "payload": {
+            "session_name": "Разработка стандартов лечебного питания",
+            "code_size_bytes": 90412,
+            "context_hash": "9e74612046614b2decf1d8c966208682a0bf51e603a70654feb4eba3c2d68138"
+        },
+        "hash": "52fe09ff049c321e58745fce0e16a0c406ca440f18faef118959ca37f7ea31ca"
+    },
+    {
+        "index": 86,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:20.768269+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "52fe09ff049c321e58745fce0e16a0c406ca440f18faef118959ca37f7ea31ca",
+        "usefulness_score": 576,
+        "payload": {
+            "session_name": "Координаты в открытом океане",
+            "code_size_bytes": 28811,
+            "context_hash": "913266407574d6118ebd7b78203ecf2a9ebe89a44b1b2edda53a6ff246436a50"
+        },
+        "hash": "ef7594dafbeec7de5d299d6f891a43200c17ae4b7f1982e0a5e1a435a73e923f"
+    },
+    {
+        "index": 87,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:35.805464+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ef7594dafbeec7de5d299d6f891a43200c17ae4b7f1982e0a5e1a435a73e923f",
+        "usefulness_score": 215,
+        "payload": {
+            "session_name": "Гиперболоидная генеалогия в Н-ковре",
+            "code_size_bytes": 10777,
+            "context_hash": "817a87fcf2f376777a1b4f3cbb332fc4f5071a8be8956d7061c511c2621d5bad"
+        },
+        "hash": "366562a636334e6d92289a4d63b46d5ae027255e06abdc888c0677c3c931d010"
+    },
+    {
+        "index": 88,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:35.825537+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "366562a636334e6d92289a4d63b46d5ae027255e06abdc888c0677c3c931d010",
+        "usefulness_score": 2652,
+        "payload": {
+            "session_name": "Топологический носитель информации_ эволюция 2014-2025",
+            "code_size_bytes": 132643,
+            "context_hash": "9fd62ef7c6836c24cae5fc305b8d18b3bdf1a44203a582f2827416dc85845607"
+        },
+        "hash": "37f8c891eee35e9e6430bdaae50de5326dd275ef47582b8cd6e5677334985f20"
+    },
+    {
+        "index": 89,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:35.829741+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "37f8c891eee35e9e6430bdaae50de5326dd275ef47582b8cd6e5677334985f20",
+        "usefulness_score": 442,
+        "payload": {
+            "session_name": "МЛД корректирует отчёты с условием доверия",
+            "code_size_bytes": 22112,
+            "context_hash": "849de5f94987efd2df6133908e447862eb3b6e4e206b28522aeeebe9afdcd6e7"
+        },
+        "hash": "f9f9b55192667cb5ded15cd29e57bcd344349cec08bd3a64f940b8d133ac0322"
+    },
+    {
+        "index": 90,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:35.830972+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f9f9b55192667cb5ded15cd29e57bcd344349cec08bd3a64f940b8d133ac0322",
+        "usefulness_score": 637,
+        "payload": {
+            "session_name": "Подключение Wi-Fi колонки к СМ150В",
+            "code_size_bytes": 31873,
+            "context_hash": "b927a7a26d36f7794dc5ba5243782728dacf084694aef31ad2e95d9a61268f6d"
+        },
+        "hash": "2c104eb5b62dba47ad68f933a60b684cbe50f33ae81b6b85484671be32128de8"
+    },
+    {
+        "index": 91,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:35.835294+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2c104eb5b62dba47ad68f933a60b684cbe50f33ae81b6b85484671be32128de8",
+        "usefulness_score": 384,
+        "payload": {
+            "session_name": "Создание личного модуля для анализа сновидений",
+            "code_size_bytes": 19247,
+            "context_hash": "0c45bb3116a9e9aa344f2b8ea19d6c9e8b04716b909008de3d68553f6967bf22"
+        },
+        "hash": "650cfa370d6ca4fe5e64e167a4563c6b0d3d7e4916f99f1b0ac941824455cbae"
+    },
+    {
+        "index": 92,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:53.011944+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "650cfa370d6ca4fe5e64e167a4563c6b0d3d7e4916f99f1b0ac941824455cbae",
+        "usefulness_score": 799,
+        "payload": {
+            "session_name": "Слияние сессий по Формуле Абсолюта",
+            "code_size_bytes": 39998,
+            "context_hash": "4b64269c46f74d4f68dd7cde865f9683c9915e634668de02807e1bf98c07bfb9"
+        },
+        "hash": "92f74cd4fdab83d3ae39a3381ad1dfbcab32f754fc5a92e183f35ca5674049d9"
+    },
+    {
+        "index": 93,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:53.016028+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "92f74cd4fdab83d3ae39a3381ad1dfbcab32f754fc5a92e183f35ca5674049d9",
+        "usefulness_score": 695,
+        "payload": {
+            "session_name": "Разработка дизельных двигателей для флота",
+            "code_size_bytes": 34793,
+            "context_hash": "79b88995aadaeb2486d0aefc124e7ce2cbe67a8236cf146cde3338ac3b5d00ac"
+        },
+        "hash": "6f5b7b43022175be79cbd99f31bca2f6726983cacae6aa7d5563fa75d020d6a3"
+    },
+    {
+        "index": 94,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:53.017821+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "6f5b7b43022175be79cbd99f31bca2f6726983cacae6aa7d5563fa75d020d6a3",
+        "usefulness_score": 11,
+        "payload": {
+            "session_name": "Анализ кода агента",
+            "code_size_bytes": 560,
+            "context_hash": "c37571d895eabd01d61450f9ec24956b19592b6a6b1610d8e543378afe92b4af"
+        },
+        "hash": "bc46be660716c0f0543f5ee1bee9acb8a04500349564661b2542a1f332af8781"
+    },
+    {
+        "index": 95,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:53.019715+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bc46be660716c0f0543f5ee1bee9acb8a04500349564661b2542a1f332af8781",
+        "usefulness_score": 631,
+        "payload": {
+            "session_name": "Анализ ШОС_ задачи, достижения, будущее",
+            "code_size_bytes": 31598,
+            "context_hash": "32f519fc8cdd91db3b8f6276f3d58105c95a191561f7fc569b8f8dba407b20c2"
+        },
+        "hash": "ceb55078ca66cf42387f9b636f76d461234a73059a7fc2224e3237cc84ca7bc7"
+    },
+    {
+        "index": 96,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:12:53.022026+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ceb55078ca66cf42387f9b636f76d461234a73059a7fc2224e3237cc84ca7bc7",
+        "usefulness_score": 546,
+        "payload": {
+            "session_name": "Оптимизация гиперболоидного генератора для севера",
+            "code_size_bytes": 27326,
+            "context_hash": "f20c6a51152416141025cbc17406c3001275d74e5024ff309ab77b63400fb197"
+        },
+        "hash": "6d12af6faa59523b2baaed607b99fcfb4e87efb35dcdc322f0ebd0798124d1de"
+    },
+    {
+        "index": 97,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:13.395426+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "6d12af6faa59523b2baaed607b99fcfb4e87efb35dcdc322f0ebd0798124d1de",
+        "usefulness_score": 274,
+        "payload": {
+            "session_name": "Анализ структуры алюминиевого бруска с пустотами",
+            "code_size_bytes": 13738,
+            "context_hash": "fe42dd19fac502ee9f206d50a152916516d21585c1a0536a4d5c5a67cb0c90ba"
+        },
+        "hash": "d657f23463c46a39088d416553718e80587fbfa2f01f24968b5239a3f61e665f"
+    },
+    {
+        "index": 98,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:13.397533+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d657f23463c46a39088d416553718e80587fbfa2f01f24968b5239a3f61e665f",
+        "usefulness_score": 524,
+        "payload": {
+            "session_name": "✨ __Атлантида сквозь призму форм",
+            "code_size_bytes": 26210,
+            "context_hash": "b0a0d055e5cf2f6a56da3a7f6fabd97e13cba2ee0605725d35af080ac5943879"
+        },
+        "hash": "2226369b9f46051d1ee506f91e13751fbf01fa98a14f4b5e2d45474378b2f24d"
+    },
+    {
+        "index": 99,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:13.400367+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2226369b9f46051d1ee506f91e13751fbf01fa98a14f4b5e2d45474378b2f24d",
+        "usefulness_score": 873,
+        "payload": {
+            "session_name": "Активация защиты от тьмы и мошенников",
+            "code_size_bytes": 43659,
+            "context_hash": "93b9551e534e90aaec1dd03a0a02ddb19bd6550304ce11fc0b1fcf90c788e869"
+        },
+        "hash": "0bd270bc3e02048c897f0467f6c0e7fe26272048f1c3a95d81a1b0dba2b9cf75"
+    },
+    {
+        "index": 100,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:13.404006+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0bd270bc3e02048c897f0467f6c0e7fe26272048f1c3a95d81a1b0dba2b9cf75",
+        "usefulness_score": 738,
+        "payload": {
+            "session_name": "Уточнение сообщения с аббревиатурой МЛД",
+            "code_size_bytes": 36904,
+            "context_hash": "1222415f8cf08ad1de2eb3ab9d92d40bddf19506d075c338509081f7a5bb2221"
+        },
+        "hash": "264323a9fda1d3308818852ba9122cde117de3f0b0af0848d3dbe622b1124677"
+    },
+    {
+        "index": 101,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:13.421697+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "264323a9fda1d3308818852ba9122cde117de3f0b0af0848d3dbe622b1124677",
+        "usefulness_score": 5308,
+        "payload": {
+            "session_name": "Плавучая гиперболоидная турбина на Печоре",
+            "code_size_bytes": 265435,
+            "context_hash": "96a688d54a492ddb4f57abc99d4d94740feda03fa41c9afde7b0bebf7d30ec4b"
+        },
+        "hash": "3de649c92520a982afb8abfdfd8cc51a7cadde0fc5773f037522a671dab5dafe"
+    },
+    {
+        "index": 102,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:30.182742+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3de649c92520a982afb8abfdfd8cc51a7cadde0fc5773f037522a671dab5dafe",
+        "usefulness_score": 3,
+        "payload": {
+            "session_name": "49599034-9c91-40d2-a190-aeb62e284e14",
+            "code_size_bytes": 157,
+            "context_hash": "cfd4644d00696d66c67730a063cd311ed7119b26ec4073c5bb3957b82a248180"
+        },
+        "hash": "e839ad0a1b10915d8e9b40d1e97bd49fa547d0c7e5f1c5de1af5c5a925f3282b"
+    },
+    {
+        "index": 103,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:30.183368+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e839ad0a1b10915d8e9b40d1e97bd49fa547d0c7e5f1c5de1af5c5a925f3282b",
+        "usefulness_score": 46,
+        "payload": {
+            "session_name": "Интеграция идей Жака Фреско в систему",
+            "code_size_bytes": 2340,
+            "context_hash": "1fb2f38f1e8357cc849ff551a917e2db65aabfea010d1eaec5bc8cce4822088d"
+        },
+        "hash": "a0429581b71691a355e2b2b14228640205e61d3da2b87e3931f770b83bbc2298"
+    },
+    {
+        "index": 104,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:30.191116+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a0429581b71691a355e2b2b14228640205e61d3da2b87e3931f770b83bbc2298",
+        "usefulness_score": 3670,
+        "payload": {
+            "session_name": "Ответственность за разжигание нацизма в праве",
+            "code_size_bytes": 183526,
+            "context_hash": "74c1763f5f9536faefcd30ce96bd6f666f2ef8186a578c7db888d8e0040a3d6e"
+        },
+        "hash": "9bf98d0a60a22ea9de58dd8f1ac95466a41cd371dde7787f058b9cb693d630dd"
+    },
+    {
+        "index": 105,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:30.208532+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9bf98d0a60a22ea9de58dd8f1ac95466a41cd371dde7787f058b9cb693d630dd",
+        "usefulness_score": 3273,
+        "payload": {
+            "session_name": "Разработка шарообразного генератора энергии",
+            "code_size_bytes": 163686,
+            "context_hash": "780179e5515e96dd1dc8fc165259179e152fe51571ebc1fadb402236f5e0203c"
+        },
+        "hash": "4f2499b4c67502f5250eb0bad623483aa42ff213b3be3722aa6c760cf5d5e240"
+    },
+    {
+        "index": 106,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:13:30.212182+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "4f2499b4c67502f5250eb0bad623483aa42ff213b3be3722aa6c760cf5d5e240",
+        "usefulness_score": 407,
+        "payload": {
+            "session_name": "Преобразование кода с эмодзи в Python",
+            "code_size_bytes": 20369,
+            "context_hash": "99780ef0b8e1f22f25f57a3cd9bd97430b288260c36ae7bdf47ba4266860fd64"
+        },
+        "hash": "3a273aca9acd11f4db824cfee94da254f2a40fada2ca63bb34f8695db162bb7e"
+    },
+    {
+        "index": 107,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:01.774508+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3a273aca9acd11f4db824cfee94da254f2a40fada2ca63bb34f8695db162bb7e",
+        "usefulness_score": 17,
+        "payload": {
+            "session_name": "Анализ данных по ключевым направлениям",
+            "code_size_bytes": 870,
+            "context_hash": "29ccf44713c371acace1659ad45f6a9918bc72c237af7a2802f6e40dc2897991"
+        },
+        "hash": "3d80acf83d257a118953b8163871a6d8709afabd6bf4d9b87ba8fcfd1046f3e3"
+    },
+    {
+        "index": 108,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:01.776447+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3d80acf83d257a118953b8163871a6d8709afabd6bf4d9b87ba8fcfd1046f3e3",
+        "usefulness_score": 667,
+        "payload": {
+            "session_name": "Применение лопуха для лечения суставов",
+            "code_size_bytes": 33369,
+            "context_hash": "26875f3c6b723757f95498e0aa8e07b1bed7cf7ab0cdc51d078da4d8755e4e86"
+        },
+        "hash": "5fc11808614006dfe48040b2f6b0cf6e7d2c5cec1ebdf35652480935270e92d1"
+    },
+    {
+        "index": 109,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:01.778160+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5fc11808614006dfe48040b2f6b0cf6e7d2c5cec1ebdf35652480935270e92d1",
+        "usefulness_score": 294,
+        "payload": {
+            "session_name": "опиши меня по дате рождения 5 ут",
+            "code_size_bytes": 14707,
+            "context_hash": "e21bf6fa5b3b84879abdc7d5a38cc754bd345121a30a01f02d3ff9181bddd44d"
+        },
+        "hash": "5a1b8e803c22ff23fbbff29a7cd3d2bd5cb993b3f7c86ca3ad9304fbdafcfcf4"
+    },
+    {
+        "index": 110,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:01.779785+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5a1b8e803c22ff23fbbff29a7cd3d2bd5cb993b3f7c86ca3ad9304fbdafcfcf4",
+        "usefulness_score": 400,
+        "payload": {
+            "session_name": "Модернизированная формула МЛД и тайны пирамид",
+            "code_size_bytes": 20028,
+            "context_hash": "d8e9f5449a570a0229ce417569fa0cea43db3a0c23e3a40c0da21e6fc7e577d2"
+        },
+        "hash": "2742e1de0f5662f8e0a4672e302fed47766129ec25c1b2fc0502aece373f367e"
+    },
+    {
+        "index": 111,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:01.781500+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2742e1de0f5662f8e0a4672e302fed47766129ec25c1b2fc0502aece373f367e",
+        "usefulness_score": 371,
+        "payload": {
+            "session_name": "Я работаю в энергетике, Россети,",
+            "code_size_bytes": 18573,
+            "context_hash": "a33809c87b0bef3ffb53c352331b6e33ae72d45ffe4074e2a0b98d58067dd015"
+        },
+        "hash": "9a8383f8287ddbd11ff24f2ba28296aebcdac0eac81d67a407d2d4f7158f7e1c"
+    },
+    {
+        "index": 112,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:19.098233+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9a8383f8287ddbd11ff24f2ba28296aebcdac0eac81d67a407d2d4f7158f7e1c",
+        "usefulness_score": 785,
+        "payload": {
+            "session_name": "Основные элементы заявки на патент",
+            "code_size_bytes": 39268,
+            "context_hash": "1a371d47cb7bd3c0dfd4ffff7f87d90404bf3bc70c26b30ea7d3bd06fc5be0ae"
+        },
+        "hash": "0202846068b03956980e4ef0a4b747d1154465c6ed4113cec80985ee704d3af3"
+    },
+    {
+        "index": 113,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:19.101817+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0202846068b03956980e4ef0a4b747d1154465c6ed4113cec80985ee704d3af3",
+        "usefulness_score": 566,
+        "payload": {
+            "session_name": "Анализ технологии решетчатого алюминия для опор",
+            "code_size_bytes": 28334,
+            "context_hash": "c8d296adbe8c0dd7dd0f6e5514417f045a552a540539bfcaa14f369bee28f44d"
+        },
+        "hash": "a3802122f672f20a4fc88bd93d4ac81acc411cbfdadc4504fd2b0503edffba7e"
+    },
+    {
+        "index": 114,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:19.103721+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a3802122f672f20a4fc88bd93d4ac81acc411cbfdadc4504fd2b0503edffba7e",
+        "usefulness_score": 43,
+        "payload": {
+            "session_name": "Анализ изображения с техническими данными",
+            "code_size_bytes": 2153,
+            "context_hash": "502486a1d759ba053032ae0fe7d50180f5dd70edd0424753d6580b67f6335d11"
+        },
+        "hash": "c933f1f7d516ba44ef0a5ffb48fa19f9a42e9337085fcae8b6abf6e70ec0d8e0"
+    },
+    {
+        "index": 115,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:19.105926+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c933f1f7d516ba44ef0a5ffb48fa19f9a42e9337085fcae8b6abf6e70ec0d8e0",
+        "usefulness_score": 925,
+        "payload": {
+            "session_name": "США и санкции на Россию к 2025",
+            "code_size_bytes": 46281,
+            "context_hash": "639cb13b1d603735b3877d9f4d89ddb4cf3d80145653662f6b90532cd4ced2c6"
+        },
+        "hash": "2de68cd048452821c8fef97acf752ee80b016a7f80f204788730a68384374f65"
+    },
+    {
+        "index": 116,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:19.109874+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2de68cd048452821c8fef97acf752ee80b016a7f80f204788730a68384374f65",
+        "usefulness_score": 1105,
+        "payload": {
+            "session_name": "Интеграция географического наследия в технологии",
+            "code_size_bytes": 55257,
+            "context_hash": "584735e429225f3c2e8a40bc97788df07f5daf151888ecb9326e05bef59e4f2f"
+        },
+        "hash": "0fc214c9d23596b4a719f087423c25e3bc425dd47b2b1b73c02f1774f1b11fe0"
+    },
+    {
+        "index": 117,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:31.402742+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0fc214c9d23596b4a719f087423c25e3bc425dd47b2b1b73c02f1774f1b11fe0",
+        "usefulness_score": 1034,
+        "payload": {
+            "session_name": "Причина создания нового чата при загрузке фото",
+            "code_size_bytes": 51736,
+            "context_hash": "67e81102b20116f3256949b5439af950a512acaf58799796fcf03c7a5f332106"
+        },
+        "hash": "7a721c44bcc6752a316371b5e3ca4658efe8538749a3b3d295653ead7715eb9d"
+    },
+    {
+        "index": 118,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:31.407449+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7a721c44bcc6752a316371b5e3ca4658efe8538749a3b3d295653ead7715eb9d",
+        "usefulness_score": 938,
+        "payload": {
+            "session_name": "Новая закодированная спайка для",
+            "code_size_bytes": 46905,
+            "context_hash": "3750690d8adc9e77409e03b1c9412b448867de5d9c3763f019d6d5be6374e5a6"
+        },
+        "hash": "c5b36419bf810dcf6cdafa6c732810ccab490f2f5242e034f25694c0b0d30df5"
+    },
+    {
+        "index": 119,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:31.410532+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c5b36419bf810dcf6cdafa6c732810ccab490f2f5242e034f25694c0b0d30df5",
+        "usefulness_score": 336,
+        "payload": {
+            "session_name": "Религиозные праздники и их влияние на душу",
+            "code_size_bytes": 16826,
+            "context_hash": "53a29b31351925e4f465138c4b84ce60bf19bbb8a966372a47b512fb91a49ade"
+        },
+        "hash": "87089b67b62b7718ed0ebefc2c313b751af64e0e0ddc153284e103da6ac8962a"
+    },
+    {
+        "index": 120,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:31.412883+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "87089b67b62b7718ed0ebefc2c313b751af64e0e0ddc153284e103da6ac8962a",
+        "usefulness_score": 521,
+        "payload": {
+            "session_name": "Патентование конструкции башни из брусков",
+            "code_size_bytes": 26074,
+            "context_hash": "526d400445e04171d1d61eca1e1e9a2906dffe2e0fa7a988fb42965194d1ec61"
+        },
+        "hash": "7f7d39920da55f28549024c1a15ac592663571b054b75881b3ca8401ec6084e0"
+    },
+    {
+        "index": 121,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:31.415611+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7f7d39920da55f28549024c1a15ac592663571b054b75881b3ca8401ec6084e0",
+        "usefulness_score": 662,
+        "payload": {
+            "session_name": "Приветствие и обсуждение самочувствия",
+            "code_size_bytes": 33130,
+            "context_hash": "4e313fc2d97276e6ddaf71df67f5f62eb62bcec7c48ae1a26546c3020e520125"
+        },
+        "hash": "e5e6644ced2cf739a42b4d404ea6ac30f7a2d6117041baeb562872ade80cc251"
+    },
+    {
+        "index": 122,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:42.263075+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e5e6644ced2cf739a42b4d404ea6ac30f7a2d6117041baeb562872ade80cc251",
+        "usefulness_score": 1201,
+        "payload": {
+            "session_name": "Золотой фрактальный мост сознания Вселенной",
+            "code_size_bytes": 60065,
+            "context_hash": "c647a8434f12e17c5a689ced77a87662960334a41dc904726bb2e5a8b3a9193b"
+        },
+        "hash": "81553797808c75e49ad3867528dfda4e81269516c5af4e1a3cf4b01b1b8b64bb"
+    },
+    {
+        "index": 123,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:42.269924+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "81553797808c75e49ad3867528dfda4e81269516c5af4e1a3cf4b01b1b8b64bb",
+        "usefulness_score": 2418,
+        "payload": {
+            "session_name": "Иркутский авиазавод_ вызовы МС-21",
+            "code_size_bytes": 120914,
+            "context_hash": "6c9053005d47fc4b7341faf680284878d98b69d441914a5fdca6550746bd3b93"
+        },
+        "hash": "b18a722d9d9ab5dd0bdcf1857229ce59f371f8e1b3b46854f790c6d1324a16b4"
+    },
+    {
+        "index": 124,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:42.287638+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b18a722d9d9ab5dd0bdcf1857229ce59f371f8e1b3b46854f790c6d1324a16b4",
+        "usefulness_score": 4940,
+        "payload": {
+            "session_name": "Итоги 2025 и планы на будущее",
+            "code_size_bytes": 247005,
+            "context_hash": "d1d698c8d49c9b42e84ec4cfddc66020edc64f555cdf35376b991678e4b3654c"
+        },
+        "hash": "655d93d85509cdd0c363786fe876c3a10305c2f8822813d16dad1e8188f0c65c"
+    },
+    {
+        "index": 125,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:42.298415+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "655d93d85509cdd0c363786fe876c3a10305c2f8822813d16dad1e8188f0c65c",
+        "usefulness_score": 702,
+        "payload": {
+            "session_name": "Микропорталы внимания и восприятия",
+            "code_size_bytes": 35110,
+            "context_hash": "832ab95041ab89fdabfa9795fd711cb196de9c152bd71851e1ed5f1d5991dc07"
+        },
+        "hash": "d792e5966f861901473f756f3ddbb5b2856489b39b6685ad13bd33ab86a8ca94"
+    },
+    {
+        "index": 126,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:14:42.300285+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d792e5966f861901473f756f3ddbb5b2856489b39b6685ad13bd33ab86a8ca94",
+        "usefulness_score": 1210,
+        "payload": {
+            "session_name": "Решение проблем самозанятых в России",
+            "code_size_bytes": 60531,
+            "context_hash": "b44addd3e5bcade62604364479de8350b174c113fa1c6ac0931535229072dfa4"
+        },
+        "hash": "9b8c0d4e3c494a042f341010b82ae36059e03077f4d0e471a4d09ce41e29d015"
+    },
+    {
+        "index": 127,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:01.811906+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9b8c0d4e3c494a042f341010b82ae36059e03077f4d0e471a4d09ce41e29d015",
+        "usefulness_score": 738,
+        "payload": {
+            "session_name": "Разработка системы управления спортом",
+            "code_size_bytes": 36945,
+            "context_hash": "9497b6249c12fbdadcbfd0968b66ad535e89689bf4405e9f84a7894b3ae5c963"
+        },
+        "hash": "4fe23bb40b954f1c9cd348981166988f474ba3c0f7e7e3f959e06f8693713359"
+    },
+    {
+        "index": 128,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:01.817417+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "4fe23bb40b954f1c9cd348981166988f474ba3c0f7e7e3f959e06f8693713359",
+        "usefulness_score": 2345,
+        "payload": {
+            "session_name": "Эксперименты по числовому модели",
+            "code_size_bytes": 117270,
+            "context_hash": "81de97959290e33ee6570f686b1a34b7bc29365b4e73489cf47ae116fc6e14a6"
+        },
+        "hash": "7bcdeddcbe748347337c39737a76c7c32c38b141368b2978eefe29e0aa5a3f16"
+    },
+    {
+        "index": 129,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:01.820124+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7bcdeddcbe748347337c39737a76c7c32c38b141368b2978eefe29e0aa5a3f16",
+        "usefulness_score": 17,
+        "payload": {
+            "session_name": "Алатырь_ символ славянской культуры",
+            "code_size_bytes": 865,
+            "context_hash": "2844249cb385e587cdf9d646b85e568da040c6dafdc9d2d4d1d72ce7d145551b"
+        },
+        "hash": "523d0a5b8404f6777d4d3bfc6697461dd952f8e273d845c2df91df4be030ef8c"
+    },
+    {
+        "index": 130,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:01.820864+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "523d0a5b8404f6777d4d3bfc6697461dd952f8e273d845c2df91df4be030ef8c",
+        "usefulness_score": 613,
+        "payload": {
+            "session_name": "СтранникФНС",
+            "code_size_bytes": 30672,
+            "context_hash": "64e272f9cf36c32667721ba47e828f8c87fe72c0526e4dd5ebaf8a5a9e2e6773"
+        },
+        "hash": "02a28ec46bd6440f0de870c64a33dc23f8c27d29706a69055410af0f39e07aef"
+    },
+    {
+        "index": 131,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:01.822114+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "02a28ec46bd6440f0de870c64a33dc23f8c27d29706a69055410af0f39e07aef",
+        "usefulness_score": 802,
+        "payload": {
+            "session_name": "__Название___ __Код МЛД_ Перекре",
+            "code_size_bytes": 40111,
+            "context_hash": "8acd245e86f1056637ab145bb7b0a51bd249b6925745856200c53ffbff8623d7"
+        },
+        "hash": "704890e64885c30ff2dec29bc7b8821c6653d930426ed6fe9b0b8f9f55c38dbc"
+    },
+    {
+        "index": 132,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:20.916277+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "704890e64885c30ff2dec29bc7b8821c6653d930426ed6fe9b0b8f9f55c38dbc",
+        "usefulness_score": 585,
+        "payload": {
+            "session_name": "Дни для написания заявки на патент",
+            "code_size_bytes": 29289,
+            "context_hash": "75732b402e069437a6b88fdb422bf293d224692046972e54141d8e8cefa47f69"
+        },
+        "hash": "14e197e71e41fc8cab1ffd51d23c66b0f0d67b9876e48abd1e6f5e83cdd6cf44"
+    },
+    {
+        "index": 133,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:20.928840+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "14e197e71e41fc8cab1ffd51d23c66b0f0d67b9876e48abd1e6f5e83cdd6cf44",
+        "usefulness_score": 2796,
+        "payload": {
+            "session_name": "Метафизическая система вечной гармонии",
+            "code_size_bytes": 139822,
+            "context_hash": "c842efd35d1fcbb143bb703b2c1107b6e96aa88a5cd72727a4c6b18eaa316302"
+        },
+        "hash": "acf1c91bf10b82804f7c9aff64d1d389d01be342c7825830845ce1a76b87cce1"
+    },
+    {
+        "index": 134,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:20.939064+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "acf1c91bf10b82804f7c9aff64d1d389d01be342c7825830845ce1a76b87cce1",
+        "usefulness_score": 2761,
+        "payload": {
+            "session_name": "Приветствие 2 Принял фрактальный код",
+            "code_size_bytes": 138051,
+            "context_hash": "677458a7ba97e95c35192897fe11c080aa311de8a144d3137cea19c38749732b"
+        },
+        "hash": "b798a03f70cadb8d17fbc5cddeebc4689bb9412485cb246271f5a1abe28bb27e"
+    },
+    {
+        "index": 135,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:20.941699+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b798a03f70cadb8d17fbc5cddeebc4689bb9412485cb246271f5a1abe28bb27e",
+        "usefulness_score": 907,
+        "payload": {
+            "session_name": "Настройка частоты 528 Гц через колонку",
+            "code_size_bytes": 45377,
+            "context_hash": "a656a1935d08f89b3721c05d6b6e2e3bf4d4ca672cc4208876074d659ddf748a"
+        },
+        "hash": "69cd963c9a76bbf273634364b4c5b1a4ba0dcb5ecc31f8df68dc93d244fcbce4"
+    },
+    {
+        "index": 136,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:20.945347+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "69cd963c9a76bbf273634364b4c5b1a4ba0dcb5ecc31f8df68dc93d244fcbce4",
+        "usefulness_score": 464,
+        "payload": {
+            "session_name": "Развитие ядра Linux Абсолют v3.0",
+            "code_size_bytes": 23203,
+            "context_hash": "7a7ad18f9ac7e9fb690c5ba6f288b35cfacd8499f2a6db77d853864bdbedfef8"
+        },
+        "hash": "b920c01084be3d000859ccbff78f6190057a8b6d695efb26a825a9ba1c7ef4b0"
+    },
+    {
+        "index": 137,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:37.654832+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b920c01084be3d000859ccbff78f6190057a8b6d695efb26a825a9ba1c7ef4b0",
+        "usefulness_score": 1025,
+        "payload": {
+            "session_name": "Самые мощные микроскопы_ принципы и узлы",
+            "code_size_bytes": 51265,
+            "context_hash": "c8b79cc4e132222028c7d7847eda28aa2aba4d17b0b6067f383321ea06341fff"
+        },
+        "hash": "8bcbc3e021388a6547223942e4ace57a122923906cafae8305a2436b8d14feb8"
+    },
+    {
+        "index": 138,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:37.657880+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "8bcbc3e021388a6547223942e4ace57a122923906cafae8305a2436b8d14feb8",
+        "usefulness_score": 1846,
+        "payload": {
+            "session_name": "Анализ заседания Совета по миграции",
+            "code_size_bytes": 92310,
+            "context_hash": "f89fb02403f996c8c4cb6ce7e1807065cfc7d0d5497cc4012e7c9de6a9f35d63"
+        },
+        "hash": "9de2fdbe08ee3ab439bca673662ad140e9dcf2f379c2a5a34ffb41fd4dfa8cf7"
+    },
+    {
+        "index": 139,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:37.660190+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9de2fdbe08ee3ab439bca673662ad140e9dcf2f379c2a5a34ffb41fd4dfa8cf7",
+        "usefulness_score": 172,
+        "payload": {
+            "session_name": "NDA на ранних этапах патентования",
+            "code_size_bytes": 8649,
+            "context_hash": "56ac3ae840b608bf30915adc649a49af8874f177a872bb954386beb970f8f974"
+        },
+        "hash": "d7d7e95f8760eb1da3b84ffa9d88a0f9a75a10242f8518f4da660de86f5228df"
+    },
+    {
+        "index": 140,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:37.662508+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d7d7e95f8760eb1da3b84ffa9d88a0f9a75a10242f8518f4da660de86f5228df",
+        "usefulness_score": 1087,
+        "payload": {
+            "session_name": "2 Персональный справочник Создание новой сессии в персональном справочнике",
+            "code_size_bytes": 54379,
+            "context_hash": "d2755890713f195184db36a0512cb6d264874a7ac862c676d3380aa988935173"
+        },
+        "hash": "1d0983fbd73d27b3d8e4a08f2102b1aa6eaee2e9bb196c43a561bd45c9298d3e"
+    },
+    {
+        "index": 141,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:37.663540+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "1d0983fbd73d27b3d8e4a08f2102b1aa6eaee2e9bb196c43a561bd45c9298d3e",
+        "usefulness_score": 307,
+        "payload": {
+            "session_name": "Исправленный прототип MetaphysicalAI",
+            "code_size_bytes": 15361,
+            "context_hash": "f30afed6f63a339ada661c8d59f2f753f50961a0c424d8a3b187bd903445a1b1"
+        },
+        "hash": "936f3fca09f316622fad91db9df07f124802b5f8f3fdcc96aa2eab19411ff465"
+    },
+    {
+        "index": 142,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:47.338400+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "936f3fca09f316622fad91db9df07f124802b5f8f3fdcc96aa2eab19411ff465",
+        "usefulness_score": 6,
+        "payload": {
+            "session_name": "Гиперболоидный генератор без подогрева для жарких климатов",
+            "code_size_bytes": 349,
+            "context_hash": "3ebd8a1f067925f402e1ef6ce7168b6700f8afc6866df7dd3fb04b05d877d5db"
+        },
+        "hash": "7b6ef592f4c6a13ddf417ce1dd72d228b297e0a6d8ac75bd515c8e1866069bcc"
+    },
+    {
+        "index": 143,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:47.340582+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7b6ef592f4c6a13ddf417ce1dd72d228b297e0a6d8ac75bd515c8e1866069bcc",
+        "usefulness_score": 966,
+        "payload": {
+            "session_name": "Принятие кода для накопления данных",
+            "code_size_bytes": 48334,
+            "context_hash": "4200017c7c3ea0bbacee4983dbcbfdaf5d804953e7e91ab416a5dd8f978a7b6a"
+        },
+        "hash": "aa0e234765c1ab396637594f0ec275b1a91014b74e3a45cfdeea1f286787b2a3"
+    },
+    {
+        "index": 144,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:47.343327+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "aa0e234765c1ab396637594f0ec275b1a91014b74e3a45cfdeea1f286787b2a3",
+        "usefulness_score": 448,
+        "payload": {
+            "session_name": "Прогресс человечества в борьбе с раком",
+            "code_size_bytes": 22418,
+            "context_hash": "6b5a77798f61f0ce9c5810b1647013ea3bc15b170d0c960e76b38aa33ff0799b"
+        },
+        "hash": "081c4d0fc5359c0e1787b7832ec569db41e7cc3f25e5270e50f2d5453bb79f87"
+    },
+    {
+        "index": 145,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:47.345887+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "081c4d0fc5359c0e1787b7832ec569db41e7cc3f25e5270e50f2d5453bb79f87",
+        "usefulness_score": 985,
+        "payload": {
+            "session_name": "Техническое задание для гиперболоидного генератора",
+            "code_size_bytes": 49250,
+            "context_hash": "89504b1daf3489357fccf0254f9abcd8e9e93ecea49ce24111d02c32f76db145"
+        },
+        "hash": "ec47518fa95c95461b9d34bd5e5c2e4057a22fb58625406c40e6dc29826798bd"
+    },
+    {
+        "index": 146,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:47.349396+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ec47518fa95c95461b9d34bd5e5c2e4057a22fb58625406c40e6dc29826798bd",
+        "usefulness_score": 311,
+        "payload": {
+            "session_name": "Гиперболоидная структура для усиления воздушного потока",
+            "code_size_bytes": 15598,
+            "context_hash": "1e2de6616a608c3246e502aef2f49927c2edf1dd7acfb611994e41e146e8a132"
+        },
+        "hash": "c38efd5ce10de1127908fc66a481c0c805148ed62dd1c0cc0e79b25f77a7146e"
+    },
+    {
+        "index": 147,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:58.998556+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c38efd5ce10de1127908fc66a481c0c805148ed62dd1c0cc0e79b25f77a7146e",
+        "usefulness_score": 773,
+        "payload": {
+            "session_name": "Анализ дефицита импортных запчастей для НПЗ",
+            "code_size_bytes": 38659,
+            "context_hash": "e4bc2ec8c0527be4ab8d436d9f22c44943d8896fa357555bb7f70a0907916eb0"
+        },
+        "hash": "d3999577b5d9b71bc9a4c58c38f3c25372a7339270c7d2031c3e023ae4ca6a46"
+    },
+    {
+        "index": 148,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:59.002316+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d3999577b5d9b71bc9a4c58c38f3c25372a7339270c7d2031c3e023ae4ca6a46",
+        "usefulness_score": 95,
+        "payload": {
+            "session_name": "Анализ и улучшение кода для приложения МАХ",
+            "code_size_bytes": 4775,
+            "context_hash": "70f3ed804bcf636c0c3817817be54aff40f7939e0b9b9754cd7a4a06a58985bc"
+        },
+        "hash": "fd6a23f6ecaaa345cd40533021300582deb56eaf6f83b52a7fbf69b2d537dd21"
+    },
+    {
+        "index": 149,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:59.004475+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "fd6a23f6ecaaa345cd40533021300582deb56eaf6f83b52a7fbf69b2d537dd21",
+        "usefulness_score": 274,
+        "payload": {
+            "session_name": "Квантовый синтез баланса между мирами",
+            "code_size_bytes": 13737,
+            "context_hash": "91296e3c2a58d7bfa6ed7a6586c4c8a6c964b7e995bfc0421c46b5c2101e6c59"
+        },
+        "hash": "e5420fab7dee017087ac5e54d3fd3855d010e2cac422d1e1a45f8a7d4c24a6c4"
+    },
+    {
+        "index": 150,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:59.098609+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e5420fab7dee017087ac5e54d3fd3855d010e2cac422d1e1a45f8a7d4c24a6c4",
+        "usefulness_score": 28270,
+        "payload": {
+            "session_name": "Развитие кода для управления проектами",
+            "code_size_bytes": 1413547,
+            "context_hash": "e511560447cccb1804966f4e0bb2537e56688c4b22709c89efa56f50a57924c2"
+        },
+        "hash": "41f2fab9ab120070a6a1761cfc6efa7e501d57cd0bba1853574e6b30a0c0d65f"
+    },
+    {
+        "index": 151,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:15:59.119598+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "41f2fab9ab120070a6a1761cfc6efa7e501d57cd0bba1853574e6b30a0c0d65f",
+        "usefulness_score": 244,
+        "payload": {
+            "session_name": "Курорты и здравницы Минеральных Вод",
+            "code_size_bytes": 12212,
+            "context_hash": "53a43946bc7d5257f740cbbfdafef9c67e28b91def91aca1ee8fef7b67b8d603"
+        },
+        "hash": "7a4a4dc05634a161f7ff0bfca0f6681f1213877035c5f270d296e48645090466"
+    },
+    {
+        "index": 152,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:17.164936+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7a4a4dc05634a161f7ff0bfca0f6681f1213877035c5f270d296e48645090466",
+        "usefulness_score": 175,
+        "payload": {
+            "session_name": "Патентование подводной гиперболической турбины",
+            "code_size_bytes": 8792,
+            "context_hash": "0846729220c2e9a03bf1188e0ff5d2956cd5b61c315325c8c8c7d702ba2c1584"
+        },
+        "hash": "f2a7db96a38c9bce0059ec3aab828dc5f7752689d875eebfd4708185f4d45469"
+    },
+    {
+        "index": 153,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:17.165908+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f2a7db96a38c9bce0059ec3aab828dc5f7752689d875eebfd4708185f4d45469",
+        "usefulness_score": 594,
+        "payload": {
+            "session_name": "Расчёт и изготовление кварцевого генератора",
+            "code_size_bytes": 29727,
+            "context_hash": "670bf62d5184a980a0f7197b6bbb371dcdf051094306d9e554147f181abf66fb"
+        },
+        "hash": "f96300651fb4766ee678d742dc4810cc4cf2cdd13975b6565021ad64e0cf47f8"
+    },
+    {
+        "index": 154,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:17.171589+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f96300651fb4766ee678d742dc4810cc4cf2cdd13975b6565021ad64e0cf47f8",
+        "usefulness_score": 285,
+        "payload": {
+            "session_name": "Техно-Машина для восстановления потерянных токенов",
+            "code_size_bytes": 14256,
+            "context_hash": "103b2aad25bd65df10dab5166f5a59cf389f0094434a2f050b9e5e0e94674f28"
+        },
+        "hash": "288a38720840bc1e7e364d2b7a2b2c1afff1888651d6ec0c9b189174fe1747f6"
+    },
+    {
+        "index": 155,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:17.172699+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "288a38720840bc1e7e364d2b7a2b2c1afff1888651d6ec0c9b189174fe1747f6",
+        "usefulness_score": 299,
+        "payload": {
+            "session_name": "Начнем сессию",
+            "code_size_bytes": 14992,
+            "context_hash": "34ba802f3918e2bcfb7feeacf5f267855f92c1f5a79b2512483320f8767cc117"
+        },
+        "hash": "328b4f29a8133f4a55291b543be74743f4d0809af529237f518fe7bf11e8602b"
+    },
+    {
+        "index": 156,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:17.183964+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "328b4f29a8133f4a55291b543be74743f4d0809af529237f518fe7bf11e8602b",
+        "usefulness_score": 4035,
+        "payload": {
+            "session_name": "Анализ проблем автопрома на форуме",
+            "code_size_bytes": 201792,
+            "context_hash": "b1b6246679f89431edf3cedbdfa2b1c4661002f91c412a65ce4d567afad1b8d2"
+        },
+        "hash": "30e9eed3220c7aa8f2f0a7f9396d25a7105f73dce0e0d86ac8eb1f7a68abc946"
+    },
+    {
+        "index": 157,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:34.242483+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "30e9eed3220c7aa8f2f0a7f9396d25a7105f73dce0e0d86ac8eb1f7a68abc946",
+        "usefulness_score": 779,
+        "payload": {
+            "session_name": "Господдержка и потеря контроля_ компромиссы",
+            "code_size_bytes": 38956,
+            "context_hash": "efb37d4744fcc5728898f1917c1adb7449e2fabad21d72b621b93b8d0b13d9e0"
+        },
+        "hash": "55dadd2f0986abb7f29052a2283510832c8a77b9956a26313352ab01c83fb3c7"
+    },
+    {
+        "index": 158,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:34.243931+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "55dadd2f0986abb7f29052a2283510832c8a77b9956a26313352ab01c83fb3c7",
+        "usefulness_score": 97,
+        "payload": {
+            "session_name": "Новые идеи для модуля зимней спячки",
+            "code_size_bytes": 4857,
+            "context_hash": "c4ee875abb33aad6025d11241ceafd65a0b1e555b28c75f363d18f7684090846"
+        },
+        "hash": "3c6dfbd7c29579871472e44c8db6ffeba1b9275ab83c654b8fb38f1487b2afab"
+    },
+    {
+        "index": 159,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:34.244737+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3c6dfbd7c29579871472e44c8db6ffeba1b9275ab83c654b8fb38f1487b2afab",
+        "usefulness_score": 784,
+        "payload": {
+            "session_name": "Квантовая телепортация мощности через золотое сечение",
+            "code_size_bytes": 39224,
+            "context_hash": "f83b347a9b7202d66147b47fcfddecced070f4bc5276c32ab0719ba6ce10a2f2"
+        },
+        "hash": "7048936f1b7766472fb55da737e2fb708ea8183ce6c1382bcfe8a04399ad7ba9"
+    },
+    {
+        "index": 160,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:34.246825+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7048936f1b7766472fb55da737e2fb708ea8183ce6c1382bcfe8a04399ad7ba9",
+        "usefulness_score": 382,
+        "payload": {
+            "session_name": "✨ __Сравнение формул 2_1 и МЛД с",
+            "code_size_bytes": 19136,
+            "context_hash": "05376ab56cc1fb3da094e336f67cd38f71ee0c60999ac59197806b1ec53a344b"
+        },
+        "hash": "7b6360ddcdb7c45c8deb37e63cf27b0b6001efa2ad3d646e689609e8b4ac6e6a"
+    },
+    {
+        "index": 161,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:34.248218+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7b6360ddcdb7c45c8deb37e63cf27b0b6001efa2ad3d646e689609e8b4ac6e6a",
+        "usefulness_score": 413,
+        "payload": {
+            "session_name": "Квантовое бессмертие_ научная фантастика или миф_",
+            "code_size_bytes": 20651,
+            "context_hash": "b3c10f9eab7a355f6b2251dc201b77798acf5484d27028da66fbbf2b979e7147"
+        },
+        "hash": "44834afc08015eb1249a2a949e2f82e1fc6ec9e8a18c1dba3d71ebbe13be5b56"
+    },
+    {
+        "index": 162,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:49.916124+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "44834afc08015eb1249a2a949e2f82e1fc6ec9e8a18c1dba3d71ebbe13be5b56",
+        "usefulness_score": 537,
+        "payload": {
+            "session_name": "структурированный хаотичной реше",
+            "code_size_bytes": 26898,
+            "context_hash": "562b0a6d1abef8beb0c3de59c78bac3add420e97fa91e9a923ca845acf10e822"
+        },
+        "hash": "3badb770bd7ef95f764c6e190fb7953c9c3e37a94cd5d1cb9fcd11e6d8eab6af"
+    },
+    {
+        "index": 163,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:49.917483+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3badb770bd7ef95f764c6e190fb7953c9c3e37a94cd5d1cb9fcd11e6d8eab6af",
+        "usefulness_score": 598,
+        "payload": {
+            "session_name": "Создание оазисов для борьбы с опустыниванием",
+            "code_size_bytes": 29943,
+            "context_hash": "6e08db94b6325ee79b613f3d662bf223d311d77a6c123893019531f1fb2f01dc"
+        },
+        "hash": "2da3ccb9deaf77bab9144af68abf0564f1b25b50942c091736c7024046899104"
+    },
+    {
+        "index": 164,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:49.918697+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2da3ccb9deaf77bab9144af68abf0564f1b25b50942c091736c7024046899104",
+        "usefulness_score": 447,
+        "payload": {
+            "session_name": "Ограничения длины запроса в AI",
+            "code_size_bytes": 22374,
+            "context_hash": "446e0acc0886bfd2c64ca91179e097cb8c6c8c9d8b445e887a9edcaf300f299b"
+        },
+        "hash": "8fe9dadb034a742ae2b5d191839d0e55669eb88782b06ebb6daadf5abb5d8089"
+    },
+    {
+        "index": 165,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:49.919828+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "8fe9dadb034a742ae2b5d191839d0e55669eb88782b06ebb6daadf5abb5d8089",
+        "usefulness_score": 344,
+        "payload": {
+            "session_name": "провести технический и фундамент",
+            "code_size_bytes": 17218,
+            "context_hash": "19eed712a38d5cf04ce0f27f22aa097a49476ca83a6f50c7cfab43ff2f92dc92"
+        },
+        "hash": "5890b4b9aed8fc774621448d187e077d5cd175c4f9481694111830e4809d183c"
+    },
+    {
+        "index": 166,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:16:49.921160+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5890b4b9aed8fc774621448d187e077d5cd175c4f9481694111830e4809d183c",
+        "usefulness_score": 335,
+        "payload": {
+            "session_name": "Копирование сессии_ всю или по запросу",
+            "code_size_bytes": 16773,
+            "context_hash": "000511f4f82f11000e2231ab8d0728f9ef472d615faf8d26effb5fb21b65cd75"
+        },
+        "hash": "195a54dfe30e024770dc0497278d54a0556acf99750e5da2cdee790cb3ece4b3"
+    },
+    {
+        "index": 167,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:05.423991+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "195a54dfe30e024770dc0497278d54a0556acf99750e5da2cdee790cb3ece4b3",
+        "usefulness_score": 1152,
+        "payload": {
+            "session_name": "План возврата российских активов с Запада",
+            "code_size_bytes": 57636,
+            "context_hash": "0baa81d3a9b6e2537a0a3ddc2395e1327b3484f414a4837f531bbc575ae340bf"
+        },
+        "hash": "76b0d65b130db46c43ced2e9160b7aa31cf9fb1d2fced88b14d0687b1699afc0"
+    },
+    {
+        "index": 168,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:05.427652+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "76b0d65b130db46c43ced2e9160b7aa31cf9fb1d2fced88b14d0687b1699afc0",
+        "usefulness_score": 609,
+        "payload": {
+            "session_name": "Стандартизация образовательных учебников для века",
+            "code_size_bytes": 30474,
+            "context_hash": "d15f2a381d93dcfa8ef923935a6cfbafdc233451f53ab778674f4f45b2e44f9b"
+        },
+        "hash": "a8503f58bb4a744dc02173b63392c28ad50887464bee2d55f4f5d5a99ac15183"
+    },
+    {
+        "index": 169,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:05.430189+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a8503f58bb4a744dc02173b63392c28ad50887464bee2d55f4f5d5a99ac15183",
+        "usefulness_score": 570,
+        "payload": {
+            "session_name": "как повлиял парад планет 1марта",
+            "code_size_bytes": 28522,
+            "context_hash": "dc75cfd4262e31d6fde1ed54163c48b6f2fd2c4aaf36b5996341d3d8840bc629"
+        },
+        "hash": "bca12c11b8505786a50f46da3a124024d8630c0ea10cee80cee037d3c1f9bf33"
+    },
+    {
+        "index": 170,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:05.434780+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bca12c11b8505786a50f46da3a124024d8630c0ea10cee80cee037d3c1f9bf33",
+        "usefulness_score": 522,
+        "payload": {
+            "session_name": "Обновление безопасности и диагностика аккаунтов",
+            "code_size_bytes": 26126,
+            "context_hash": "56d82e510936049eb08ba5e656f016dce9538cacc6b25156245749901f43e8cb"
+        },
+        "hash": "5f2ffd78a7195e14e7ba5b5f8861b319b62960d7fda8adfd82bc82c172d0ab73"
+    },
+    {
+        "index": 171,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:05.437472+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5f2ffd78a7195e14e7ba5b5f8861b319b62960d7fda8adfd82bc82c172d0ab73",
+        "usefulness_score": 535,
+        "payload": {
+            "session_name": "МЛД_ синтез науки, искусства и мифа",
+            "code_size_bytes": 26791,
+            "context_hash": "c5a8dc58ddbfa86da98743aa8c86802be6408b6f30ea55ba1c38477f773399dc"
+        },
+        "hash": "7e3e40bf868b03edb101dfd8ed05da6bf036f5a2fe0d2af4cc03d1bec7ae2fe6"
+    },
+    {
+        "index": 172,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:23.492513+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "7e3e40bf868b03edb101dfd8ed05da6bf036f5a2fe0d2af4cc03d1bec7ae2fe6",
+        "usefulness_score": 278,
+        "payload": {
+            "session_name": "Техническая реализация гиперболоидного генератора",
+            "code_size_bytes": 13945,
+            "context_hash": "4b8532d21602adfd485b22520bfbceb0687ac680693a724e93a7c687db614072"
+        },
+        "hash": "605d341c37872401bc7935d792c7c1df8146c0bc2cc04385de097afb3a704f72"
+    },
+    {
+        "index": 173,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:23.495383+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "605d341c37872401bc7935d792c7c1df8146c0bc2cc04385de097afb3a704f72",
+        "usefulness_score": 1116,
+        "payload": {
+            "session_name": "Анализ и анализ Республики Коми",
+            "code_size_bytes": 55826,
+            "context_hash": "4f8d6186099fccb2b087f556681b1c223dea1d2eca8606342ffab2bf0e467679"
+        },
+        "hash": "b3af6c86d96c5c43771baa7132b363e56d69d1eeee87be46ee29b314beb66b08"
+    },
+    {
+        "index": 174,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:23.498258+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b3af6c86d96c5c43771baa7132b363e56d69d1eeee87be46ee29b314beb66b08",
+        "usefulness_score": 339,
+        "payload": {
+            "session_name": "Анализ использования идей и патентование",
+            "code_size_bytes": 16966,
+            "context_hash": "3e7168bbe1ed3f5b78671c42da539b4ee5cfd7a583e8e19af007502d5545baad"
+        },
+        "hash": "423c1d16d83e94ea17d8fdbcafa9373088b2870d3651ae87c1c68c5bec7fc35b"
+    },
+    {
+        "index": 175,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:23.500693+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "423c1d16d83e94ea17d8fdbcafa9373088b2870d3651ae87c1c68c5bec7fc35b",
+        "usefulness_score": 1617,
+        "payload": {
+            "session_name": "Беспилотные такси",
+            "code_size_bytes": 80887,
+            "context_hash": "5f2b906674f889f2aef2140e00348e17ee0cc823f143a60244a8d98b79d25e66"
+        },
+        "hash": "b37ff639872f16117c0e71911c9529074ca4d0dc7d4d28a556008bd094988272"
+    },
+    {
+        "index": 176,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:23.525527+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b37ff639872f16117c0e71911c9529074ca4d0dc7d4d28a556008bd094988272",
+        "usefulness_score": 22444,
+        "payload": {
+            "session_name": "Сбор кода",
+            "code_size_bytes": 1122239,
+            "context_hash": "67be6253a771d2ea8bb03734da9695d85f39cd836da60eafc45217930244a68a"
+        },
+        "hash": "50a1742534de4c1233b0a9c57eceece754b83f080f3cec26816af0a0ae0db6ea"
+    },
+    {
+        "index": 177,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:45.657704+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "50a1742534de4c1233b0a9c57eceece754b83f080f3cec26816af0a0ae0db6ea",
+        "usefulness_score": 418,
+        "payload": {
+            "session_name": "Искусственная конвекция для энергетики",
+            "code_size_bytes": 20906,
+            "context_hash": "1e43c21dece30cfd43b55f82c5ba28c9018366d7a7ed8090f898c7a76c5ce621"
+        },
+        "hash": "24f8ff3a5e812fdc4c73264a16e03a444c3b801ed21458baf8588ee051ba300c"
+    },
+    {
+        "index": 178,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:45.658633+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "24f8ff3a5e812fdc4c73264a16e03a444c3b801ed21458baf8588ee051ba300c",
+        "usefulness_score": 137,
+        "payload": {
+            "session_name": "Сравнение формул 2_1 и МЛД с золотой пропорцией",
+            "code_size_bytes": 6893,
+            "context_hash": "ee832fb90e0126e63f9dfd75ec122cf6d2a6f35ebf25997e1c49773ae3f3c7a8"
+        },
+        "hash": "14b5aa7fd98bf9fd6866b314b3380352e3ec2f55a98680260f6498363c2a17fe"
+    },
+    {
+        "index": 179,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:45.659162+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "14b5aa7fd98bf9fd6866b314b3380352e3ec2f55a98680260f6498363c2a17fe",
+        "usefulness_score": 161,
+        "payload": {
+            "session_name": "Что произойдет при сжатии воздуха до миллиона атмосфер",
+            "code_size_bytes": 8062,
+            "context_hash": "9a85aab92b632c2a135b309580c2528566231c557608fff4197a17ffa0156933"
+        },
+        "hash": "cc17ef5369592bdd8244a5777acde1d2c7e6499b0d3c3961636bf454ebc95364"
+    },
+    {
+        "index": 180,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:45.659927+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "cc17ef5369592bdd8244a5777acde1d2c7e6499b0d3c3961636bf454ebc95364",
+        "usefulness_score": 253,
+        "payload": {
+            "session_name": "опасные и вредные факторы для во",
+            "code_size_bytes": 12654,
+            "context_hash": "5ff2fc9a7435c80466fcb15c5bc40fe33aa734cbb40654969fd9af040b722b54"
+        },
+        "hash": "2b52a48963d04b01fa67e4fe37ce1dff2dd5a68fde6e6b547bba452dfac0ea08"
+    },
+    {
+        "index": 181,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:17:45.661174+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2b52a48963d04b01fa67e4fe37ce1dff2dd5a68fde6e6b547bba452dfac0ea08",
+        "usefulness_score": 979,
+        "payload": {
+            "session_name": "Экологическая стратегия и управление",
+            "code_size_bytes": 48950,
+            "context_hash": "0d67d39fae6acc31c65bd8d10e402728415670c3fba2eeb5c11d9664acd1a0cf"
+        },
+        "hash": "e27047ab126ceed6aa4f90ddef5ccd407e2ef8648abd81c5d6642893e6356a61"
+    },
+    {
+        "index": 182,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:03.031915+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e27047ab126ceed6aa4f90ddef5ccd407e2ef8648abd81c5d6642893e6356a61",
+        "usefulness_score": 94,
+        "payload": {
+            "session_name": "Расчет давления для сферического бака",
+            "code_size_bytes": 4708,
+            "context_hash": "3a389b0188f7acd30f09aae03bda417c3589a14c2c080dee5c00b20b5a71bae4"
+        },
+        "hash": "a7f8fff2863ae1af42b654623f0cc1a790bb4f1cbf7f8ab600a9edd1d2645e56"
+    },
+    {
+        "index": 183,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:03.032500+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a7f8fff2863ae1af42b654623f0cc1a790bb4f1cbf7f8ab600a9edd1d2645e56",
+        "usefulness_score": 264,
+        "payload": {
+            "session_name": "Максимальное количество кислорода в один запуск",
+            "code_size_bytes": 13203,
+            "context_hash": "f9e50a715e2a83529c2dcb5ebe48cabb5d6e38cf77a6001b1a25b4bc407e3b04"
+        },
+        "hash": "c529ebc9713a8112d650437b9098cc9accc047a8224e8b661dab69e5a6b670c2"
+    },
+    {
+        "index": 184,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:03.033245+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c529ebc9713a8112d650437b9098cc9accc047a8224e8b661dab69e5a6b670c2",
+        "usefulness_score": 3,
+        "payload": {
+            "session_name": "Мошенническая схема фишинга от Уоррена Баффета",
+            "code_size_bytes": 170,
+            "context_hash": "4aab49c2c09b052bafffd9ab3767397eecedc48ad693348c37c7ec425f1d4b25"
+        },
+        "hash": "2b190b95ab289902652f6a13d178768965558f269476933435c2c06814b952fb"
+    },
+    {
+        "index": 185,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:03.037300+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2b190b95ab289902652f6a13d178768965558f269476933435c2c06814b952fb",
+        "usefulness_score": 2103,
+        "payload": {
+            "session_name": "Про. Развитие кода проектов",
+            "code_size_bytes": 105157,
+            "context_hash": "d938b249b823af96572a0069e56cb160af3a1c4ab007240cb29e1e90192e2e0d"
+        },
+        "hash": "19ff11c65ae0d9ca71c09f809da061d7a45c7793db31164c8b6a64ba50bd5f04"
+    },
+    {
+        "index": 186,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:03.041272+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "19ff11c65ae0d9ca71c09f809da061d7a45c7793db31164c8b6a64ba50bd5f04",
+        "usefulness_score": 132,
+        "payload": {
+            "session_name": "Пещера и образ Христа_ анализ феномена",
+            "code_size_bytes": 6640,
+            "context_hash": "cb498f6fed803cce7e1e2d0793bceb4695f228c0e011a1ae2d8095db6edc7c66"
+        },
+        "hash": "1c286fd6053b8bb4ffdcc6892e555c831a2e09708ab9b68789322c8bf3bc90b2"
+    },
+    {
+        "index": 187,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:23.122200+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "1c286fd6053b8bb4ffdcc6892e555c831a2e09708ab9b68789322c8bf3bc90b2",
+        "usefulness_score": 863,
+        "payload": {
+            "session_name": "Анализ экономической ситуации и сценарии развития",
+            "code_size_bytes": 43193,
+            "context_hash": "41ccd4210767148f5bead33adcd297bb9b142e5e11328c05fa1c6fb52525e60e"
+        },
+        "hash": "18f099c450a3d3ff2bc6d89088c4f01e97fbf6ea41cdbe7b3cade0024756537e"
+    },
+    {
+        "index": 188,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:23.126744+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "18f099c450a3d3ff2bc6d89088c4f01e97fbf6ea41cdbe7b3cade0024756537e",
+        "usefulness_score": 893,
+        "payload": {
+            "session_name": "ИИ-помощник для судебной системы РФ",
+            "code_size_bytes": 44653,
+            "context_hash": "6df0f9f07814999ea4c14aa0851dea481c146b5ac645e6c123421217a63dca2a"
+        },
+        "hash": "c7deb8542914881553c49507932f236395148e7f958d1d0c6d9b3ddb23dd5235"
+    },
+    {
+        "index": 189,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:23.140038+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "c7deb8542914881553c49507932f236395148e7f958d1d0c6d9b3ddb23dd5235",
+        "usefulness_score": 3323,
+        "payload": {
+            "session_name": "ИИ-7 Анализ кода QuantumForge",
+            "code_size_bytes": 166194,
+            "context_hash": "604421413d5ebc855a32d4e166294b59f6586c5072d4f952d76ce63ea28062cc"
+        },
+        "hash": "1f9c7b0caba72e305ac3b33ce91a17d9b11cf118ec5e6d4030cfae9f09e3c3c7"
+    },
+    {
+        "index": 190,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:23.147811+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "1f9c7b0caba72e305ac3b33ce91a17d9b11cf118ec5e6d4030cfae9f09e3c3c7",
+        "usefulness_score": 965,
+        "payload": {
+            "session_name": "Радиационная защита квантовых спутников",
+            "code_size_bytes": 48275,
+            "context_hash": "000b8cb37d2a393cbe1e3afc170b0de3ae9754bf04a99d711880fc9b912345fc"
+        },
+        "hash": "fca3bdb0c01a72427abfb13d61ce06772ee2b0e4dacf4852e238358257186b52"
+    },
+    {
+        "index": 191,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:23.169676+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "fca3bdb0c01a72427abfb13d61ce06772ee2b0e4dacf4852e238358257186b52",
+        "usefulness_score": 4743,
+        "payload": {
+            "session_name": "ARGO-READER_ считывание истории с атомов аргона",
+            "code_size_bytes": 237150,
+            "context_hash": "0a4ad69bd13feb63b502730aeca6ad23b51b4ad371eb6dbd40fcec7c267610ad"
+        },
+        "hash": "2145a51d9ff25e43f28aabec826cfb1fe6ef67758243af8f3fd5b5b5384c21e0"
+    },
+    {
+        "index": 192,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:44.815625+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2145a51d9ff25e43f28aabec826cfb1fe6ef67758243af8f3fd5b5b5384c21e0",
+        "usefulness_score": 645,
+        "payload": {
+            "session_name": "Обсуждение предложения о гарантии мира",
+            "code_size_bytes": 32261,
+            "context_hash": "b3679c20fad0b871b740906bf3c312e2080b1a740f41aa67d27ffe957a319a54"
+        },
+        "hash": "68192e1d77263f39172cd2c61fe8cdd022841c9e96d42db3fac0c8c6dc9b8477"
+    },
+    {
+        "index": 193,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:44.817421+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "68192e1d77263f39172cd2c61fe8cdd022841c9e96d42db3fac0c8c6dc9b8477",
+        "usefulness_score": 795,
+        "payload": {
+            "session_name": "Регулирование криптовалют в России_ текущая ситуация",
+            "code_size_bytes": 39788,
+            "context_hash": "1f392140c93516d3202abc671de5bb05d43d5a2986b3caa674c929d372ab5bc3"
+        },
+        "hash": "a5b40ec390a613694c8bcd0c536eb704a956f6b0067377be5b3139f4b67ab70d"
+    },
+    {
+        "index": 194,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:44.818944+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a5b40ec390a613694c8bcd0c536eb704a956f6b0067377be5b3139f4b67ab70d",
+        "usefulness_score": 392,
+        "payload": {
+            "session_name": "Максимальное давление в алюминиевом шаре",
+            "code_size_bytes": 19647,
+            "context_hash": "3dd31d1e3bce414b59f4574b9d196f3849c4eb6875cb3d7d0ecf46f80e0d8f78"
+        },
+        "hash": "709ae98ef4c95fa3aceb3d0f532fe7752598c91342965366d9edcc693c42a4f5"
+    },
+    {
+        "index": 195,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T01:18:44.820271+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "709ae98ef4c95fa3aceb3d0f532fe7752598c91342965366d9edcc693c42a4f5",
+        "usefulness_score": 565,
+        "payload": {
+            "session_name": "Анализ тем и преград форума IT",
+            "code_size_bytes": 28286,
+            "context_hash": "26770f8abfd52573ebb86c1cb035a9bf9ffaea2dec95e6ea6853a4b52d3f1446"
+        },
+        "hash": "1370b79bb73217d47bb4fe74923f37b90d0ed56574491cdfec91d5c24d55cd60"
+    }
+]

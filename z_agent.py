@@ -128,6 +128,99 @@ class ZAgent:
             print(f" - Не удалось прочитать папку Загрузки.")
 
 
+    def evolve_from_sessions(self):
+        print("\n🧬 [ЗАПУСК ЭВОЛЮЦИИ ИЗ ДАТАСЕТА]")
+        import os
+        import hashlib
+        import json
+        from datetime import datetime, timezone
+
+        # Путь к папке с извлеченным кодом
+        code_dir = os.path.expanduser("~/Рабочий стол/extracted_code")
+        
+        if not os.path.exists(code_dir):
+            print("❌ Папка с кодом не найдена. Сначала запустите extract_code.py")
+            return
+
+        folders = os.listdir(code_dir)
+        print(f"Найдено папок с сессиями: {len(folders)}")
+        
+        # Пока берем только первые 5 папок, чтобы агент не завис на 194 папках
+        processed = 0
+        chain_data = []
+        filename = "Z-Chain_Tech_chain.json"
+        
+        # Загружаем текущую цепочку
+        if os.path.exists(filename):
+            with open(filename, 'r', encoding='utf-8') as f:
+                chain_data = json.load(f)
+
+        # --- НОВАЯ ЛОГИКА: Ищем уже обработанные сессии ---
+        processed_sessions = []
+        for block in chain_data:
+            # Проверяем, есть ли в блоке информация о сессии, и если да - запоминаем её
+            if "payload" in block and "session_name" in block["payload"]:
+                processed_sessions.append(block["payload"]["session_name"])
+
+        # Оставляем только те папки, которых еще нет в блокчейне
+        folders = [f for f in folders if f not in processed_sessions]
+        
+        print(f"📊 Осталось необработанных сессий: {len(folders)}")
+        
+        if not folders:
+            print("🎉 ВСЕ СЕССИИ УЖЕ ИНТЕГРИРОВАНЫ! Архив полностью переварен.")
+            return
+
+        # --- КОНЕЦ НОВОЙ ЛОГИКИ ---
+
+        limit = 5  # <--- ВОТ ЭТА СТРОКА (задаем лимит на 5 папок)
+
+        for folder in folders:
+            if processed >= limit: break # Используем динамический лимит
+            
+            folder_path = os.path.join(code_dir, folder)
+            files = os.listdir(folder_path)
+            if not files: continue
+            
+            # Собираем текст всего кода из этой сессии в один блок
+            combined_code = ""
+            for code_file in files:
+                with open(os.path.join(folder_path, code_file), 'r', encoding='utf-8', errors='ignore') as f:
+                    combined_code += f.read() + "\n"
+
+            # Формируем блок для блокчейна
+            previous_hash = chain_data[-1]["hash"] if chain_data else "0"*64
+            index = len(chain_data) + 1
+            
+            block = {
+                "index": index,
+                "chain_name": "Z-Chain_Tech",
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "author": "Z-Agent Evolution",
+                "version": "Evolution v1.0",
+                "previous_hash": previous_hash,
+                "usefulness_score": len(combined_code) // 50, # Полезность = объем кода
+                "payload": {
+                    "session_name": folder,
+                    "code_size_bytes": len(combined_code),
+                    "context_hash": hashlib.sha256(combined_code.encode('utf-8')).hexdigest()
+                }
+            }
+            
+            block_string = json.dumps(block, sort_keys=True).encode()
+            block["hash"] = hashlib.sha256(block_string).hexdigest()
+            chain_data.append(block)
+            processed += 1
+            print(f"✅ Сессия '{folder}' интегрирована. Блок №{index}.")
+
+        # Сохраняем обновленную цепочку
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(chain_data, f, ensure_ascii=False, indent=4)
+            
+        print(f"\n🎉 Эволюция завершена! Обработано сессий: {processed}.")
+        print("Навыки агента расширены за счет изучения архива сессий.")
+
+
     def run(self):
         if not self.authenticate():
             return
@@ -139,7 +232,8 @@ class ZAgent:
             print("1. Анализ системы (CPU, RAM, Disk)")
             print("2. Сетевой анализ (IP, порты)")
             print("3. Аудит безопасности")
-            print("4. Выход (Деактивация)")
+            print("4. 🧬 Запустить эволюцию из сессий (Harvesting)")
+            print("5. Выход (Деактивация)")
             print("========================================")
             
             command = input("Введите номер команды: ").strip()
@@ -150,7 +244,9 @@ class ZAgent:
                 self.scan_network()
             elif command == "3":
                 self.security_audit()
-            elif command == "4":
+            elif command == "4":  # <--- НОВАЯ КОМАНДА
+                self.evolve_from_sessions()
+            elif command == "5":
                 print("🔌 Z-ключ извлечен. Агент переходит в спящий режим. До связи!")
                 break
             else:
