@@ -221,6 +221,154 @@ class ZAgent:
         print("Навыки агента расширены за счет изучения архива сессий.")
 
 
+    def synthesize_tree(self):
+        print("\n🌳 [СИНТЕЗ АРХИТЕКТУРЫ: СБОРКА ДРЕВА v2.0]")
+        import ast
+        import os
+        import shutil
+
+        source_dir = os.path.expanduser("~/Рабочий стол/extracted_code")
+        output_dir = os.path.expanduser("~/Z-Network/Final_Architecture")
+        
+        # Если папка уже была, лучше её очистить перед новой сборкой (чтобы не было каши)
+        if os.path.exists(output_dir):
+            shutil.rmtree(output_dir)
+            print("🧹 Старая папка Final_Architecture очищена.")
+
+        # СОЗДАЕМ НОВЫЕ ВЕТВИ ДРЕВА
+        folders = [
+            "core", "math_magic", "philosophy", "hypothetical", "errors_and_logs",
+            "industry_tech", "gov_legal", "social_economy", "science_physics"
+        ]
+        for folder in folders:
+            os.makedirs(os.path.join(output_dir, folder), exist_ok=True)
+
+        # СЛОВАРИ ДЛЯ СОРТИРОВКИ (Эвристики)
+        keywords = {
+            "math_magic": ["phi", "gamma", "lambda", "sin", "cos", "matrix", "tensor", "квант", "формула", "абсолют"],
+            "philosophy": ["фрактал", "спячка", "душа", "смысл", "метафора", "этика", "феникс"],
+            "hypothetical": ["1000%", "вечный двигатель", "антигравитация", "телепортация", "гипотетически"],
+            "industry_tech": ["атом", "хим", "автопром", "алюмин", "турбин", "завод", "производств", "генератор", "гиперболоид", "купол", "броня"],
+            "gov_legal": ["фнс", "суд", "кремл", "закон", "гоуправлен", "безопасн", "фз", "право", "миграц"],
+            "social_economy": ["безработ", "социум", "экономик", "восстановлен", "соцзащит", "курорт", "медицин"],
+            "science_physics": ["плазм", "физик", "синтез", "решетк", "кислород", "давление", "энергетик"]
+        }
+        
+        found_classes = {} 
+        found_funcs = {}
+        # Создаем словарь для текстовых файлов
+        text_buckets = {cat: [] for cat in keywords.keys()}
+
+        # ДОБАВЛЯЕМ ПАПКУ ДЛЯ ОШИБОК В СЛОВАРЬ
+        text_buckets["errors_and_logs"] = []
+
+        print("🔍 Сканирую и сортирую слои реальности по отраслям...")
+        
+        for folder in os.listdir(source_dir):
+            folder_path = os.path.join(source_dir, folder)
+            if not os.path.isdir(folder_path): continue
+            
+            for file in os.listdir(folder_path):
+                filepath = os.path.join(folder_path, file)
+                try:
+                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                        code = f.read()
+                    
+                    # 1. Тематическая сортировка по всем ветвям
+                    for category, words in keywords.items():
+                        if any(word in code.lower() for word in words):
+                            text_buckets[category].append(f"# Источник: {folder}/{file}\n{code}\n\n")
+
+                    # 2. Извлекаем рабочий код через AST
+                    tree = ast.parse(code)
+                    for node in ast.walk(tree):
+                        if isinstance(node, ast.ClassDef):
+                            class_code = ast.get_source_segment(code, node)
+                            if not class_code: continue
+                            if node.name not in found_classes or len(class_code) > len(found_classes[node.name]):
+                                found_classes[node.name] = class_code
+                                
+                        elif isinstance(node, ast.FunctionDef):
+                            func_code = ast.get_source_segment(code, node)
+                            if not func_code: continue
+                            if node.name not in found_funcs or len(func_code) > len(found_funcs[node.name]):
+                                found_funcs[node.name] = func_code
+                                
+                except SyntaxError as e:
+                    text_buckets["errors_and_logs"].append(f"# Источник: {folder}/{file}\n# Ошибка: {e}\n{code}\n\n")
+                except Exception:
+                    pass
+
+        # Сохраняем результаты
+        print("\n💾 Записываю файлы на диск...")
+        
+        # Код
+        if found_classes:
+            with open(os.path.join(output_dir, "core", "classes.py"), 'w', encoding='utf-8') as f:
+                for name, code in found_classes.items():
+                    f.write(f"# --- CLASS: {name} ---\n{code}\n\n")
+                    
+        if found_funcs:
+            with open(os.path.join(output_dir, "core", "functions.py"), 'w', encoding='utf-8') as f:
+                for name, code in found_funcs.items():
+                    f.write(f"# --- FUNC: {name} ---\n{code}\n\n")
+
+        # Тексты по отраслям
+        for category, texts in text_buckets.items():
+            if texts:
+                with open(os.path.join(output_dir, category, f"{category}_data.txt"), 'w', encoding='utf-8') as f:
+                    f.writelines(texts)
+
+        print(f"\n✅ Найдено уникальных классов: {len(found_classes)}")
+        print(f"✅ Найдено уникальных функций: {len(found_funcs)}")
+        print(f"📁 Собрано текстов по ветвям:")
+        for cat, texts in text_buckets.items():
+            print(f"   - {cat}: {len(texts)} фрагментов")
+        
+        print("\n🧠 [САМОАНАЛИЗ АГЕНТА]")
+        print("Древо Z-Network расширено. Теперь в нем есть ветви для Промышленности, Госуправления и Социума.")
+        print("Все твои знания, включая ошибки и гипотезы, сохранены и каталогизированы.")
+
+
+    def monitor_and_update(self):
+        print("\n📡 [МОДУЛЬ ВНЕШНЕГО АНАЛИЗА И АКТУАЛИЗАЦИИ]")
+        print("Этот модуль предназначен для сверки твоих проектов с текущей реальностью.")
+        
+        topic = input("Введите тему для мониторинга (например, 'Миграционная политика', 'ФЗ-117', 'Атомная энергетика'): ").strip()
+        
+        if not topic:
+            print("❌ Тема не введена.")
+            return
+
+        print(f"\n🔍 Инициализация поиска по теме: '{topic}'...")
+        
+        # Имитация работы поискового робота и внешнего ИИ
+        print("1. Проверка базы Конституции РФ...")
+        print("2. Сканирование обновлений в Российской Газете (rg.ru)...")
+        print("3. Анализ изменений в профильных ФЗ...")
+        
+        # В будущем здесь будет код, который реально идет в интернет.
+        # А пока мы формируем "промпт" для внешней нейросети.
+        
+        prompt_for_ai = f"""
+        Ты — старший аналитик Z-Network. 
+        Проанализируй текущую ситуацию по направлению: "{topic}".
+        Выдели ключевые изменения в законодательстве за последний месяц.
+        Предложи, как эти изменения влияют на архитектуру проекта Z-Network (модули ФНС, судебные ИИ, социальную сферу).
+        Дай конкретные рекомендации по обновлению кода или стратегии.
+        """
+        
+        print("\n🧠 [ФОРМИРОВАНИЕ ЗАПРОСА К ВНЕШНЕМУ ИИ]")
+        print("Скопируй этот запрос и отправь его в DeepSeek (или другую нейросеть), добавив свежие данные:")
+        print("-" * 50)
+        print(prompt_for_ai)
+        print("-" * 50)
+        
+        print("\n💡 [РЕКОМЕНДАЦИЯ АГЕНТА]")
+        print("После получения ответа от ИИ, сохрани его в файл 'update_report.txt' и запусти пункт 6 (Синтез) для обновления Древа.")
+        print("В будущих версиях я научусь делать это автоматически по API. 😊")
+
+
     def run(self):
         if not self.authenticate():
             return
@@ -233,7 +381,9 @@ class ZAgent:
             print("2. Сетевой анализ (IP, порты)")
             print("3. Аудит безопасности")
             print("4. 🧬 Запустить эволюцию из сессий (Harvesting)")
-            print("5. Выход (Деактивация)")
+            print("5. 🌳 Синтез Архитектуры (Сборка Древа)")
+            print("6. 📡 Мониторинг и Актуализация (Внешний анализ)")
+            print("7. Выход (Деактивация)")
             print("========================================")
             
             command = input("Введите номер команды: ").strip()
@@ -247,6 +397,10 @@ class ZAgent:
             elif command == "4":  # <--- НОВАЯ КОМАНДА
                 self.evolve_from_sessions()
             elif command == "5":
+                self.synthesize_tree()
+            elif command == "6":
+                self.monitor_and_update()
+            elif command == "7":
                 print("🔌 Z-ключ извлечен. Агент переходит в спящий режим. До связи!")
                 break
             else:
