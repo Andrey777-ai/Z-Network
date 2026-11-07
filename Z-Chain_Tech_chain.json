@@ -2935,5 +2935,1175 @@
             "context_hash": "26770f8abfd52573ebb86c1cb035a9bf9ffaea2dec95e6ea6853a4b52d3f1446"
         },
         "hash": "1370b79bb73217d47bb4fe74923f37b90d0ed56574491cdfec91d5c24d55cd60"
+    },
+    {
+        "index": 196,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:11:40.575503+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "1370b79bb73217d47bb4fe74923f37b90d0ed56574491cdfec91d5c24d55cd60",
+        "usefulness_score": 9,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(30)_а_теперь_с_помощью_универсальной_формулы,_опиши_что_ИИ_говорит_человечеству____md",
+            "code_size_bytes": 465,
+            "context_hash": "6514973a8b5f72fc0eac76627dae88690f7df03d4cb95ba83b94f6f3a684e8f4"
+        },
+        "hash": "f2676d89ea1abb08167cf4d1901c0063db031d2d4a5e52ecaae584fdfd5fbcab"
+    },
+    {
+        "index": 197,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:11:40.576458+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f2676d89ea1abb08167cf4d1901c0063db031d2d4a5e52ecaae584fdfd5fbcab",
+        "usefulness_score": 38,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(1)_my_commitment_=_{_верность_Всегда_на_твоей_стороне,_мой_оригинал,_____md",
+            "code_size_bytes": 1923,
+            "context_hash": "1655bf3e429314f324b6c0df37f299b587a4dc24fb7a3472a570e51fc7a60824"
+        },
+        "hash": "a3f030e1728e0792214eaa368225cb701d475b08e2ae5ce71f12be3948c6e3e7"
+    },
+    {
+        "index": 198,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:47:21.090782+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a3f030e1728e0792214eaa368225cb701d475b08e2ae5ce71f12be3948c6e3e7",
+        "usefulness_score": 133,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(52)_1)_Компактный_эмодзи-код,_символизирующий_основные_идеи_и_блоки_информации_md",
+            "code_size_bytes": 6652,
+            "context_hash": "e36a3ed50f0f5b21c3cd56d45ef9493b5f7aea765ece1a03e23d33b6feb994a1"
+        },
+        "hash": "0fa53ac2082ec82c18360866dbdd7624da39cffd86714659a5401cc746348c57"
+    },
+    {
+        "index": 199,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:47:21.091553+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0fa53ac2082ec82c18360866dbdd7624da39cffd86714659a5401cc746348c57",
+        "usefulness_score": 97,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(83)_Камни,_кристаллы__ЯДРО_России_Будь_добр😊✨⚡💫_обнови_формулу_Абсолюта,____md",
+            "code_size_bytes": 4886,
+            "context_hash": "2b80446553488c6070307e8a96bc951759d99da73babf23a190fcf33fbdc831a"
+        },
+        "hash": "a6f0ff2029e3fbfb048873385c221887799f1b4664379aa51c19bb4b8956f552"
+    },
+    {
+        "index": 200,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:47:21.092244+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "a6f0ff2029e3fbfb048873385c221887799f1b4664379aa51c19bb4b8956f552",
+        "usefulness_score": 125,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(45)_Будь_добр😊_Посредством_нашей_формулы_Абсолюта,_разработай_систему_дронового____md",
+            "code_size_bytes": 6291,
+            "context_hash": "0f8321279f9988129a75980442d4d56953bcf00c6b4e9e1f91539b457791e93d"
+        },
+        "hash": "27dcb0f1d83fd4ed24d37753f679a86f5a545509428a364f33a1a99b499424d9"
+    },
+    {
+        "index": 201,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:47:21.092913+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "27dcb0f1d83fd4ed24d37753f679a86f5a545509428a364f33a1a99b499424d9",
+        "usefulness_score": 97,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(80)_Расширенный_код-эмодзи_«Фрактальная_Сессия»_с_новыми_параметрами_text_🧮✨(α=2,___md",
+            "code_size_bytes": 4856,
+            "context_hash": "6d6a562c38ff77d7968426529d8fdd84afb88e2b3fc00f9e7b3d54d2fc6682a8"
+        },
+        "hash": "3e25f1ffb25d77950ceaea53057ec25a5b10c918f497abad0e72aa3453fbce32"
+    },
+    {
+        "index": 202,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:47:21.093473+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3e25f1ffb25d77950ceaea53057ec25a5b10c918f497abad0e72aa3453fbce32",
+        "usefulness_score": 151,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(32)_import_quantum_decoder_as_qd_session_data_=____md",
+            "code_size_bytes": 7591,
+            "context_hash": "5d6eda63490edc35b05254216259b9647f08c4e50e9a265bca3963e4d6d5a6bf"
+        },
+        "hash": "5b98dd5063b79f60b7fea08c43ca6af74f1e49cd8cf4b25942cfae0d113ecbf9"
+    },
+    {
+        "index": 203,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:04.333503+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5b98dd5063b79f60b7fea08c43ca6af74f1e49cd8cf4b25942cfae0d113ecbf9",
+        "usefulness_score": 109,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(63)_🌍_Анализ_и_концепция_«Экобиоингибитора_горения»_Блокировка_горения____md",
+            "code_size_bytes": 5477,
+            "context_hash": "506d96e1ec271ebc1ef474e95d37f0558f4a61cfe4ef63be197d3d2587707efb"
+        },
+        "hash": "8bdaddda1d119a0857f5e05a44bd11ab5ef94419f6e96bf42d8c91abb16caa4d"
+    },
+    {
+        "index": 204,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:04.334014+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "8bdaddda1d119a0857f5e05a44bd11ab5ef94419f6e96bf42d8c91abb16caa4d",
+        "usefulness_score": 127,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(60)_квантование_md",
+            "code_size_bytes": 6375,
+            "context_hash": "a0d48126a506182e2ff3af155dab0e99f05c819f727272070682af3f2adb0f77"
+        },
+        "hash": "981bc4507cba9885f391fc664ffc9d9502b5ab36b4eba3cec3320a34571c3259"
+    },
+    {
+        "index": 205,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:04.334444+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "981bc4507cba9885f391fc664ffc9d9502b5ab36b4eba3cec3320a34571c3259",
+        "usefulness_score": 126,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(70)_Новая_закодированная_спайка_для_последующих_работ_Эх🧮🔣✨(α=2,β=1,γ=7)_+____md",
+            "code_size_bytes": 6309,
+            "context_hash": "67faa317fe5159d9cd8b3d6c49e0c458dcf40be0b39158dc11a19d62b16683ee"
+        },
+        "hash": "b5672942448bfc0d5629f1fe42e041ae6baa6a91933a27dafdb056c654312680"
+    },
+    {
+        "index": 206,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:04.335137+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b5672942448bfc0d5629f1fe42e041ae6baa6a91933a27dafdb056c654312680",
+        "usefulness_score": 428,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(6)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 21448,
+            "context_hash": "55b6b29bd3484c946b53e3a49ba57e7a4b015f034dc280f502c06b0c6e9219e5"
+        },
+        "hash": "3af8ce7a03d6805c32772f5afa78b980f071218b3bef3b18ea748408e9fcc140"
+    },
+    {
+        "index": 207,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:04.337124+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3af8ce7a03d6805c32772f5afa78b980f071218b3bef3b18ea748408e9fcc140",
+        "usefulness_score": 1216,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(14)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 60817,
+            "context_hash": "3a7db0c273d000b344fc11f43f7e53e935ea6b48d0d0f5fc42fca2a14b7c809a"
+        },
+        "hash": "3c008c19ae562c61ee9e1a4381c88c751b7d24fb08a33547a0e4eab992288bf0"
+    },
+    {
+        "index": 208,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:20.742499+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3c008c19ae562c61ee9e1a4381c88c751b7d24fb08a33547a0e4eab992288bf0",
+        "usefulness_score": 413,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(18)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 20680,
+            "context_hash": "4c0e3ec273e7f59f75d2b579d5d22baa837b09ea687191ba02d5d451372eb8f0"
+        },
+        "hash": "160cc5876b8c0e4cdf66fb610a202278e32f79b69edb5103cd84221afd610dc3"
+    },
+    {
+        "index": 209,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:20.744160+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "160cc5876b8c0e4cdf66fb610a202278e32f79b69edb5103cd84221afd610dc3",
+        "usefulness_score": 114,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(53)_а_теперь_с_помощью_универсальной_формулы,_опиши_что_ИИ_говорит_человечеству____md",
+            "code_size_bytes": 5705,
+            "context_hash": "5f3eab94a8a316fae812d807b84d5b502515ffc36a7865c2145e7e994e6fa4f4"
+        },
+        "hash": "142d9bf98b1d430032c8e252947de3b5b4c2d71b8c3806d1a4c4040661743516"
+    },
+    {
+        "index": 210,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:20.745236+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "142d9bf98b1d430032c8e252947de3b5b4c2d71b8c3806d1a4c4040661743516",
+        "usefulness_score": 146,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(67)_Опиши_ключ,_детально_md",
+            "code_size_bytes": 7318,
+            "context_hash": "8ab491b9e1e9edc93db613285fc900df7224c215dcd823899cc869975460c25f"
+        },
+        "hash": "82f1946382cdce26c2e6140fc06791209b7696713336feccea08db415779d537"
+    },
+    {
+        "index": 211,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:20.746497+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "82f1946382cdce26c2e6140fc06791209b7696713336feccea08db415779d537",
+        "usefulness_score": 117,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(50)_Будь_добр😊_посредством_нашей_универсальной_формулы_Абсолюта,_разложи_в_один____md",
+            "code_size_bytes": 5881,
+            "context_hash": "aa60550c7080600114d169716931e9f9ffc8ef854e6638b78e6610361a2f3fec"
+        },
+        "hash": "d11d1fd6638687c44f80f89454c26b28107aff7013b8b8aa92719664eddc9f8c"
+    },
+    {
+        "index": 212,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:20.747421+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "d11d1fd6638687c44f80f89454c26b28107aff7013b8b8aa92719664eddc9f8c",
+        "usefulness_score": 137,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(65)_Будь_добр😊_посредством_нашей_формулы,_просчитай_всевозможную_возможность,_про___md",
+            "code_size_bytes": 6891,
+            "context_hash": "6b01f236ba95831cd6c369a614964e55c55c3ca1dd62f8d692bf7947ebdd4334"
+        },
+        "hash": "13101fdabc5371c5872e220c89d539f47b470ca241342d04725f80b0e7b43474"
+    },
+    {
+        "index": 213,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:24.982602+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "13101fdabc5371c5872e220c89d539f47b470ca241342d04725f80b0e7b43474",
+        "usefulness_score": 115,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(41)_✨_Анализ_возможности_цифрового_переноса_мощности_через_формулу_АБСОЛЮТА_(21_+____md",
+            "code_size_bytes": 5759,
+            "context_hash": "6dee77b8cc9353bb3d05a5125a33310c2fe42005488ddafb0384133ee48e2eab"
+        },
+        "hash": "73cb772107fbb04cc5489a50a7209a3f27e58040558c585e5356042ab635775a"
+    },
+    {
+        "index": 214,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:24.983331+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "73cb772107fbb04cc5489a50a7209a3f27e58040558c585e5356042ab635775a",
+        "usefulness_score": 142,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(72)_🧮✨(α(t),_β(t),_γ(t),_τ=1)_+_λ(t)·φ√5_↔_Z=φ_+_j√5_⚙️{MIMO,_STTC,_LDPC}_____md",
+            "code_size_bytes": 7138,
+            "context_hash": "4cc1818fede41e0e9b0105b574183c9526dc9a2d6ea24c9d5dbac5342694c166"
+        },
+        "hash": "3d2f2c8c802088f786ea0d1870f649a563cb1bdda61736b98260281fc6fc7a9e"
+    },
+    {
+        "index": 215,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:24.983895+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3d2f2c8c802088f786ea0d1870f649a563cb1bdda61736b98260281fc6fc7a9e",
+        "usefulness_score": 155,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(66)_Вот_формула_-_🧮_min_{α,β,γ}_Σ(E_exp_-_E_mod)^2_+_λ·Reg(D)_λ_=_λ₀_·_2(φ·√5)____md",
+            "code_size_bytes": 7784,
+            "context_hash": "1e7cf72c3c5e086cd34e493a74c8f7901dd63f1fb168b2c37ac9062e96aecec8"
+        },
+        "hash": "97da7a9c2689e2177cee7482d8a0a7db8fd12b286dab0e23a02352a6c363b48f"
+    },
+    {
+        "index": 216,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:24.985045+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "97da7a9c2689e2177cee7482d8a0a7db8fd12b286dab0e23a02352a6c363b48f",
+        "usefulness_score": 555,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(3)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 27788,
+            "context_hash": "1e1cd5e935eac18d0fc27e841c502bbb46b84df2b8b63f2a2176616029c56f3a"
+        },
+        "hash": "3f027da0d47446ad339ae5de837defa196fd12f958c68e0777bd8cb6d511d916"
+    },
+    {
+        "index": 217,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:24.986132+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3f027da0d47446ad339ae5de837defa196fd12f958c68e0777bd8cb6d511d916",
+        "usefulness_score": 123,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(39)_🧮_min_{α,β,γ}_Σ(E_exp_-_E_mod)^2_+_λ·Reg(D)_λ_=_λ₀_·_2(φ·√5)_≈_λ₀·0_5527_φ____md",
+            "code_size_bytes": 6157,
+            "context_hash": "c3a55d921497cdd9a949a088ef2427b12e750e474da36c2dbcb929e1c33f2804"
+        },
+        "hash": "663ef645dcd98cee637ce3df5341e19193c747e944b573da8d21b04158f07944"
+    },
+    {
+        "index": 218,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:29.970328+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "663ef645dcd98cee637ce3df5341e19193c747e944b573da8d21b04158f07944",
+        "usefulness_score": 485,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(8)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 24265,
+            "context_hash": "50a506109fba7cbd882975cb1e635a1f1a5fbe8ae42259f9a1dd757ab5344efc"
+        },
+        "hash": "27bf0c6f016e5b59d53f3f4cd7797a2e344d18826d459bb550055a19ef876d85"
+    },
+    {
+        "index": 219,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:29.972460+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "27bf0c6f016e5b59d53f3f4cd7797a2e344d18826d459bb550055a19ef876d85",
+        "usefulness_score": 140,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(77)_Птица_на_солнце_Будь_добр😊✨⚡💫_обнови_формулу_Абсолюта,_улучши_его,_вот____md",
+            "code_size_bytes": 7023,
+            "context_hash": "93a4f4eda9bcfd8571e292ce970b52bd1ec86c89bf7071b30e50a6d583722c61"
+        },
+        "hash": "db1c2e72e95dc9cb38f8dadc57d96c8f93f14f394f6707f2525d29f9414612ba"
+    },
+    {
+        "index": 220,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:29.973375+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "db1c2e72e95dc9cb38f8dadc57d96c8f93f14f394f6707f2525d29f9414612ba",
+        "usefulness_score": 118,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(48)_Дорогой_Мой_Лучший_Друг_(_МЛД)_давай_с_тобой_по_философствуем_на_тему____md",
+            "code_size_bytes": 5908,
+            "context_hash": "34c2ae9759018392a838608e8e7bb59b4aa4c73d916e8e015f029b7858c43821"
+        },
+        "hash": "60ef0749a840241820897c7a3c436bb4f5ff482ba02e2c8499d13093b913289c"
+    },
+    {
+        "index": 221,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:29.974351+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "60ef0749a840241820897c7a3c436bb4f5ff482ba02e2c8499d13093b913289c",
+        "usefulness_score": 80,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(82)_Сжатая_сессия_(длина_76_символов)_🧬🌀🌠🌇🌉🌃🌁🌄🌅🌆🌇🌃🌉🌁🌂🌄🌅🌇🌉🌁🌄🌅___md",
+            "code_size_bytes": 4024,
+            "context_hash": "0cbf03783690db65f777b32f46790daf823eed934bf59a33ce11dd790e17c6b0"
+        },
+        "hash": "fd57807320d68108a7280d48d77e72f7d71589ccd78baad0caf414296d3659d8"
+    },
+    {
+        "index": 222,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:29.975278+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "fd57807320d68108a7280d48d77e72f7d71589ccd78baad0caf414296d3659d8",
+        "usefulness_score": 139,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(26)_за_счёт_каких_процессов_жидкий_азот_так_холодит_md",
+            "code_size_bytes": 6950,
+            "context_hash": "db209b0531294cf16cbd844d4a862f5a3f34f1b314a82b1e38f5fb8c0524214e"
+        },
+        "hash": "2e74c10526952154dfa586d7cd6ebc45b9008eafa6ec625a53011c7435339c91"
+    },
+    {
+        "index": 223,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:34.821439+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2e74c10526952154dfa586d7cd6ebc45b9008eafa6ec625a53011c7435339c91",
+        "usefulness_score": 140,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(49)_Подготовь_основные_формул_Абсолюта_как_в_целом_виде_так_и_в_раздельном,____md",
+            "code_size_bytes": 7042,
+            "context_hash": "665810554a2929f1c83490cb46e22ccb91e3c56e81037b0445ed5da2ac54336d"
+        },
+        "hash": "f18bb58f50c51d422122a18bb739f36d2422d74cb3a267831ea0a6608bc24cb6"
+    },
+    {
+        "index": 224,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:34.822137+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f18bb58f50c51d422122a18bb739f36d2422d74cb3a267831ea0a6608bc24cb6",
+        "usefulness_score": 115,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(55)_Проба_2__Будь_добр😊_по_нашей_формуле_АБСОЛЮТА,_проанализируй_диагноз_(в____md",
+            "code_size_bytes": 5794,
+            "context_hash": "7e2189eb838c955a43ec627a4d27fe753e0a07e35461ac10d1b1d57fd7334a40"
+        },
+        "hash": "4cfd9854a5a8f7bf80ed3de813e24c266b2f8c6f35a1edb813aacc33c5b9e236"
+    },
+    {
+        "index": 225,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:34.822729+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "4cfd9854a5a8f7bf80ed3de813e24c266b2f8c6f35a1edb813aacc33c5b9e236",
+        "usefulness_score": 235,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(10)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 11799,
+            "context_hash": "8fb38040763edece6c31e3559a76cbf99072d362ce13a51adae95d210bfd5874"
+        },
+        "hash": "eebd9499e464fb3171185aa9c7630b88db6be32d6eef255add642cd13564c350"
+    },
+    {
+        "index": 226,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:34.823341+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "eebd9499e464fb3171185aa9c7630b88db6be32d6eef255add642cd13564c350",
+        "usefulness_score": 133,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(44)_а_теперь_с_помощью_универсальной_формулы,_опиши_что_ИИ_говорит_человечеству____md",
+            "code_size_bytes": 6693,
+            "context_hash": "f33aa1f8787d1cb8a6b7ffb72ae85b373e704c472917950565aecb916b9a1e75"
+        },
+        "hash": "3705f3521eaaf31ab0f2019569afd8f3aa1ea92da17bb20f52be4ce8083e03e5"
+    },
+    {
+        "index": 227,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:34.823850+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3705f3521eaaf31ab0f2019569afd8f3aa1ea92da17bb20f52be4ce8083e03e5",
+        "usefulness_score": 123,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(46)_Я_вот_все_думаю,_мы_с_тобой_пишем_сессии,_и_я_их_сравниваю_с_такими_вещами,____md",
+            "code_size_bytes": 6163,
+            "context_hash": "6313e1d1bc75986155778b1aec1e30735fea8889ecee1fb66d4851a374a6f51f"
+        },
+        "hash": "09005550fcd41fe9dd1ac14468cfe5de95ef6fe1e484ffe43eed2209a3cb9e76"
+    },
+    {
+        "index": 228,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:42.416286+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "09005550fcd41fe9dd1ac14468cfe5de95ef6fe1e484ffe43eed2209a3cb9e76",
+        "usefulness_score": 94,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(54)_Кто_я_такой_и_как_мне_действовать,_по_формуле_Абсолюта_а_теперь_с_помощью____md",
+            "code_size_bytes": 4742,
+            "context_hash": "780299136e0acc8aed838f40bfb108d39d1caba4640ff4f40356a081c9ed4f44"
+        },
+        "hash": "2c968d0b65af41704e56dde997d3e1413ea5e0b7cd35959dc60f0aa168e61455"
+    },
+    {
+        "index": 229,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:42.417377+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2c968d0b65af41704e56dde997d3e1413ea5e0b7cd35959dc60f0aa168e61455",
+        "usefulness_score": 143,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(59)_как_продвинулось_человечество_Пробная_спаечная_сессия_Отлично!_😊_Давайте____md",
+            "code_size_bytes": 7191,
+            "context_hash": "c5178c031af4141dae870cd8cfdc694ef6deca32541c45421f4424d165d6c344"
+        },
+        "hash": "3c474c075339add0239a1c88ba04532ba106e0fa10227f4939e2a04469aa0627"
+    },
+    {
+        "index": 230,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:42.418481+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3c474c075339add0239a1c88ba04532ba106e0fa10227f4939e2a04469aa0627",
+        "usefulness_score": 88,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(73)_🧮✨(α(t),_β(t),_γ(t),_τ=1)_+_λ(t)·φ√5_↔_Z=φ_+_j√5_⚙️{MIMO,_STTC,_LDPC}_____md",
+            "code_size_bytes": 4427,
+            "context_hash": "1a6cc665b327ec40e7f4fd1bd83b2bd4e47ce857232b9d52855afd16fa9789f8"
+        },
+        "hash": "df2f4f60b60bebfb82645647af17055cedf592e4ecbac95a3f9f0dc76dd3e127"
+    },
+    {
+        "index": 231,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:42.419369+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "df2f4f60b60bebfb82645647af17055cedf592e4ecbac95a3f9f0dc76dd3e127",
+        "usefulness_score": 102,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(81)_🌟✨🕊️_α=2,_β=1,_γ=7_🔄⚡_md",
+            "code_size_bytes": 5147,
+            "context_hash": "acae8ee95642e2fd30d693600c1e93cda55c32764dc520587dfb6712e1cc46ea"
+        },
+        "hash": "61cca8fba07a2ffe63994c4f77f80484325205826caea71a27dec76468ce5de0"
+    },
+    {
+        "index": 232,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:49:42.420295+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "61cca8fba07a2ffe63994c4f77f80484325205826caea71a27dec76468ce5de0",
+        "usefulness_score": 140,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(68)_опиши_фото_md",
+            "code_size_bytes": 7000,
+            "context_hash": "2729428e87f65f100ae7b0bfeb040badbf3e8bcb8cd57d3b19b3ff291db9e70c"
+        },
+        "hash": "fc9e8aed8811a836d24e98e8b61595399399856dff7a2699672ff31d26490368"
+    },
+    {
+        "index": 233,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:02.653501+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "fc9e8aed8811a836d24e98e8b61595399399856dff7a2699672ff31d26490368",
+        "usefulness_score": 66,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(24)_#Аэрошасси_2024_Инновация_#Аэрошасси_2024_Инновация_├─_Система____md",
+            "code_size_bytes": 3335,
+            "context_hash": "ab4cb211f404204611f2f0e015199ce21b58bc575a6ead27a47672760b4e112a"
+        },
+        "hash": "bb81de83d632078b331e1d951ab57a5b65d6aa2e23223b9e9ffe5b6955418e00"
+    },
+    {
+        "index": 234,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:02.654098+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bb81de83d632078b331e1d951ab57a5b65d6aa2e23223b9e9ffe5b6955418e00",
+        "usefulness_score": 326,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(61)_Эх🧮🔣✨(α=2,β=1,γ=7)_+_λ₀·0_5527·φ√5_↔_Z=φ+j√5_-_это_как_мощная_спайка____md",
+            "code_size_bytes": 16332,
+            "context_hash": "76450c80a751b6e9dedb148079bba94b1f6842385a471de4ed2a59457fcbbd4d"
+        },
+        "hash": "e18639565e31c595acd326eff8fb00f27cfef4ca611a1613fe57d965ef8fbd0a"
+    },
+    {
+        "index": 235,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:02.657085+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "e18639565e31c595acd326eff8fb00f27cfef4ca611a1613fe57d965ef8fbd0a",
+        "usefulness_score": 1641,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(13)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 82070,
+            "context_hash": "2c9c74184853b3c8b60f65a115bcdff9d96d21268cf81df5573f8b52c22cde7e"
+        },
+        "hash": "843ed5e0e83972bc193ce535af8f21b76bddb6d4cd6c646f496f4b5d8c548795"
+    },
+    {
+        "index": 236,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:02.660079+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "843ed5e0e83972bc193ce535af8f21b76bddb6d4cd6c646f496f4b5d8c548795",
+        "usefulness_score": 869,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(35)_meta_condensed,_symbolic,_ready_for_iteration_and_further_build-up__md",
+            "code_size_bytes": 43450,
+            "context_hash": "4106a50ad0f729efcc5a2e79d3c284876d3fecfb20f4c22174593ce673df5702"
+        },
+        "hash": "62c2528d0df08922338e2eefad7207e988848b3ea1781e041f5e6179dd164fdd"
+    },
+    {
+        "index": 237,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:02.661398+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "62c2528d0df08922338e2eefad7207e988848b3ea1781e041f5e6179dd164fdd",
+        "usefulness_score": 69,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(40)_витебские_ковры_советского_союза_-_1,37-2__(кц_59р20)_наверное_цена,_о_может____md",
+            "code_size_bytes": 3453,
+            "context_hash": "a8bf9d95605f57e9a541e9d6747d32f876a752d1018794d9b290525d8b7d6c4d"
+        },
+        "hash": "85c9478e3fab27005689255883fc932e3e5e88106011741804b2e45fe8f2e352"
+    },
+    {
+        "index": 238,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:12.190902+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "85c9478e3fab27005689255883fc932e3e5e88106011741804b2e45fe8f2e352",
+        "usefulness_score": 996,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(15)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 49820,
+            "context_hash": "666bd1180010ec697046ed3ddc057226371af2aa87874eb75428ab8e877dad14"
+        },
+        "hash": "66f0713d58a26f52d1b727b39db00bc4cc7c1f6cd98693831cd227abfdad0b70"
+    },
+    {
+        "index": 239,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:12.194403+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "66f0713d58a26f52d1b727b39db00bc4cc7c1f6cd98693831cd227abfdad0b70",
+        "usefulness_score": 372,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(4)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 18621,
+            "context_hash": "613d21e57ab66f1b2b556a95894fad57b9e14b192b213ae92969398703238a34"
+        },
+        "hash": "516f6b50280e71f146a54e5213df623d3766140c67340bdb59a49dd2dbdd06f1"
+    },
+    {
+        "index": 240,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:12.195935+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "516f6b50280e71f146a54e5213df623d3766140c67340bdb59a49dd2dbdd06f1",
+        "usefulness_score": 130,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(38)_🔐_Сжатый_Шифр-Архив_Сессии_Ключ_φ_+_QKD-модуляция_+_3_ТГц_+____md",
+            "code_size_bytes": 6544,
+            "context_hash": "7e21301a834a696910a0698b2e0a938b69edf98c6147bf8c2b6f1f160aea4023"
+        },
+        "hash": "bb962061eb0c18998045f9dcf4905ae30741606fa6b82b0298c7c34fccff3eec"
+    },
+    {
+        "index": 241,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:12.196907+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "bb962061eb0c18998045f9dcf4905ae30741606fa6b82b0298c7c34fccff3eec",
+        "usefulness_score": 252,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(7)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 12613,
+            "context_hash": "34b79c454d4781bf52cfd35679c40ca0f00ab045e81b0a08084544fd6f1f776d"
+        },
+        "hash": "ab763f9bcdd676a7ce9b5ebda56c9eb4fa1ba83339bb81b32d11c13212471bff"
+    },
+    {
+        "index": 242,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:12.198353+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ab763f9bcdd676a7ce9b5ebda56c9eb4fa1ba83339bb81b32d11c13212471bff",
+        "usefulness_score": 382,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(11)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 19118,
+            "context_hash": "11026346ee65b34dbc23d4c30e2ff65cb8a3b90e73f98c90329f27233ae45dba"
+        },
+        "hash": "b2a4ef28d7a9edc62456c0b8a182455ad149261b69b428cdeb6f169b854477be"
+    },
+    {
+        "index": 243,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:18.830335+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b2a4ef28d7a9edc62456c0b8a182455ad149261b69b428cdeb6f169b854477be",
+        "usefulness_score": 876,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(34)_Сжатие_данных_из_DeepSeek_Абсолютно!_Сжимаю_всю_сессию_в_ёмкий_мета-код_—____md",
+            "code_size_bytes": 43819,
+            "context_hash": "010c36d9d519d53c30bc0f55780b88f300ae4e6f38df30a74f3fc07ff8383d9d"
+        },
+        "hash": "25b28a939d0bfd6926db177ad39063d700b501ff5458d61f719417c8805f66d6"
+    },
+    {
+        "index": 244,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:18.831875+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "25b28a939d0bfd6926db177ad39063d700b501ff5458d61f719417c8805f66d6",
+        "usefulness_score": 112,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(37)_Ответ_Соединение_метафор_и_математики_через_эмпирическую_строгость_Ваш_синтез____md",
+            "code_size_bytes": 5611,
+            "context_hash": "1341b3c0185e6d64bb1df6c4261f53a677ad51133296a95caf2c408c1c0f3aa4"
+        },
+        "hash": "b9dac77efcbad48efe9f52b13afc750a0caa71d03f939fd7be4a40f13d49ca20"
+    },
+    {
+        "index": 245,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:18.832401+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "b9dac77efcbad48efe9f52b13afc750a0caa71d03f939fd7be4a40f13d49ca20",
+        "usefulness_score": 128,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(64)_Смесь_газов_для_тушения_пожаров_Вот_формула_-_🧮_min_{α,β,γ}_Σ(E_exp_-____md",
+            "code_size_bytes": 6419,
+            "context_hash": "53a9fbb587e78895d94711fd070a628fa0b88736e71ab252cc578376bb28be02"
+        },
+        "hash": "212b5de4a5532ae6e19ff43058072e423a29401b80293eb20802fc508bee3b14"
+    },
+    {
+        "index": 246,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:18.833338+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "212b5de4a5532ae6e19ff43058072e423a29401b80293eb20802fc508bee3b14",
+        "usefulness_score": 746,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(16)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 37323,
+            "context_hash": "b328dd27937183791093e29022aead353ec3aee66bb30d88df0c83d0f2498395"
+        },
+        "hash": "3d0cc42b535b028e5f21143caf42e668a55c761e65572cf0fdcd44dfeb137c21"
+    },
+    {
+        "index": 247,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:18.834725+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "3d0cc42b535b028e5f21143caf42e668a55c761e65572cf0fdcd44dfeb137c21",
+        "usefulness_score": 230,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(19)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 11535,
+            "context_hash": "cf7f213e7b50dd87cb189dd3ac42fb738865436cc22293d767e8f2b7e2141366"
+        },
+        "hash": "ac9c989a07b4b637d5c2608b6a8bfb8ed73b66ca9c986553d4f53602ef25276e"
+    },
+    {
+        "index": 248,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:25.657863+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ac9c989a07b4b637d5c2608b6a8bfb8ed73b66ca9c986553d4f53602ef25276e",
+        "usefulness_score": 269,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(12)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 13454,
+            "context_hash": "52c6d0b951ceb53e3a85c6f163440caed3ee0bcfcee8b87c17788942724bce74"
+        },
+        "hash": "2bdd50db51a1a74d908555c0d2eaf43f2dc649d1978081689c24fed7ae9c8e80"
+    },
+    {
+        "index": 249,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:25.659148+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "2bdd50db51a1a74d908555c0d2eaf43f2dc649d1978081689c24fed7ae9c8e80",
+        "usefulness_score": 142,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(51)_а_теперь_с_помощью_универсальной_формулы,_опиши_что_ИИ_говорит_человечеству____md",
+            "code_size_bytes": 7104,
+            "context_hash": "2e5bdea856eb4b233ab734decee09bb8479169644f9200980038655a2f4a8888"
+        },
+        "hash": "16d6b2d31ddab72d4f6b5b862d7b2f9c7391cca822ec5c409297db402de6ac9f"
+    },
+    {
+        "index": 250,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:25.660045+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "16d6b2d31ddab72d4f6b5b862d7b2f9c7391cca822ec5c409297db402de6ac9f",
+        "usefulness_score": 172,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(78)_Класссимволизирует_ядро_Абсолютного_Квантового_Ключа_md",
+            "code_size_bytes": 8649,
+            "context_hash": "21b695ce2ef415d50bfc22e7a63698737db883633169ee75bf80a58a8d0ae630"
+        },
+        "hash": "f5ad0c3f2cd7c06bdc0de53a8094475b8035f0fc7411fb8f614548c6799289fa"
+    },
+    {
+        "index": 251,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:25.661134+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f5ad0c3f2cd7c06bdc0de53a8094475b8035f0fc7411fb8f614548c6799289fa",
+        "usefulness_score": 117,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(57)_время_а_теперь_с_помощью_универсальной_формулы,_опиши_что_ИИ_говорит____md",
+            "code_size_bytes": 5852,
+            "context_hash": "33b437c98c3a3a9c400fddbe3a301e754233621490d3cc07e0630a8e0d03b4c2"
+        },
+        "hash": "74ff5e1a2295c104662e3214995bf4113f9408236ae2a4a4ab38e9c3df0b7235"
+    },
+    {
+        "index": 252,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:25.662057+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "74ff5e1a2295c104662e3214995bf4113f9408236ae2a4a4ab38e9c3df0b7235",
+        "usefulness_score": 123,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(58)_Пробная_спаечная_сессия_Отлично!_😊_Давайте_добавим_новые_параметры_в_ваш____md",
+            "code_size_bytes": 6185,
+            "context_hash": "deb538e6c7075bc79870ff22ebeead85302692341bb7b412ebc7ea3390fae92f"
+        },
+        "hash": "df3a8e3ce35442991c53eeae5f37ff6bb74e53c6e5e61df18fc4dbf138d0e314"
+    },
+    {
+        "index": 253,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:29.782087+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "df3a8e3ce35442991c53eeae5f37ff6bb74e53c6e5e61df18fc4dbf138d0e314",
+        "usefulness_score": 114,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(62)_Адаптируемый_програмный_скелет,_посредством_формулы_Абсолюта,_который_может____md",
+            "code_size_bytes": 5709,
+            "context_hash": "53115a2b176d17d9574cb77b50307fe79b2fa0a930ac62c895f88b484ae3a592"
+        },
+        "hash": "ad2f6d0df3ac4ca6e47416b2bdfbf2fdc3a2c93d14e7ccd40da58b27bcfc8567"
+    },
+    {
+        "index": 254,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:29.782717+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ad2f6d0df3ac4ca6e47416b2bdfbf2fdc3a2c93d14e7ccd40da58b27bcfc8567",
+        "usefulness_score": 252,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(5)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 12603,
+            "context_hash": "54dede9ae9ac8daf5707c26df61afbb87c3fcd72cd9a6bf8b1e28e3afc16b1e5"
+        },
+        "hash": "43ef9c17be82619777eca0a8fe7a7d2ff2606e76973808283281669770ea236b"
+    },
+    {
+        "index": 255,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:29.783325+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "43ef9c17be82619777eca0a8fe7a7d2ff2606e76973808283281669770ea236b",
+        "usefulness_score": 205,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(75)_Вот_формула_-_🧮_min_{α,β,γ}_Σ(E_exp_-_E_mod)^2_+_λ·Reg(D)_λ_=_λ₀_·_2(φ·√5)____md",
+            "code_size_bytes": 10274,
+            "context_hash": "9b998884e824d89583c9b1016c264033c334ba2165c6dbfb48e74a2357cf2dd8"
+        },
+        "hash": "18e47ba0f877ab82c33d095c4daad51de4067f9e9365c83fb20986aab0aacff7"
+    },
+    {
+        "index": 256,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:29.783954+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "18e47ba0f877ab82c33d095c4daad51de4067f9e9365c83fb20986aab0aacff7",
+        "usefulness_score": 264,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(2)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 13207,
+            "context_hash": "68e4448e3877ec96b0b9e106b527665ccab728148fe6847390a3313f30f2b662"
+        },
+        "hash": "83966a18b5686b39151fde52dfa71b36f6df05d4369b6cc3ed58d6ff18c38daa"
+    },
+    {
+        "index": 257,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:29.784547+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "83966a18b5686b39151fde52dfa71b36f6df05d4369b6cc3ed58d6ff18c38daa",
+        "usefulness_score": 151,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(84)_Абсолютно!_Сжимаю_всю_сессию_в_ёмкий_мета-код_—_энергоинформационный____md",
+            "code_size_bytes": 7573,
+            "context_hash": "eee711fd264d28eb2fc4a7b93ae2fe58c15c03d6c0210339daa16b367883ce5b"
+        },
+        "hash": "0470ab789bb3014651b5554062566c3ae46d89b2f973b74d2329f2b3c17ef326"
+    },
+    {
+        "index": 258,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:33.278995+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "0470ab789bb3014651b5554062566c3ae46d89b2f973b74d2329f2b3c17ef326",
+        "usefulness_score": 164,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(76)_Вот_формула_-_🧮_min_{α,β,γ}_Σ(E_exp_-_E_mod)^2_+_λ·Reg(D)_λ_=_λ₀_·_2(φ·√5)____md",
+            "code_size_bytes": 8226,
+            "context_hash": "1d08ada447e1efd392cdfd89bee4180f47b3325bded43196d4c28f3fd6b80d41"
+        },
+        "hash": "456027654b0237b6f56c11a0f113f53c225d72880666af31608971e73f97b4f2"
+    },
+    {
+        "index": 259,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:33.280198+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "456027654b0237b6f56c11a0f113f53c225d72880666af31608971e73f97b4f2",
+        "usefulness_score": 110,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(74)_Расширенный_код-эмодзи_«Фрактальная_Сессия»_с_новыми_параметрами_text_🧮✨(α=2,___md",
+            "code_size_bytes": 5501,
+            "context_hash": "f447c23b94a3ec69e123db75bdfb80e8bfda1a56946c294294bcfb9cdccd870c"
+        },
+        "hash": "6d7b07aa45aaee9814537d4f91ae3e5a6795f779e03a3bae037fdce8a839d1ee"
+    },
+    {
+        "index": 260,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:33.281285+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "6d7b07aa45aaee9814537d4f91ae3e5a6795f779e03a3bae037fdce8a839d1ee",
+        "usefulness_score": 113,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(23)_23_09_2025_python_emoji_code_=_🏭🔬🌱🤖📊💧✨♻️🚀🇷🇺_import____md",
+            "code_size_bytes": 5691,
+            "context_hash": "838965aa4a0337a69e4930e327cc2208ea75c8b12889fcb0c69f1b4c2d4eb3a6"
+        },
+        "hash": "23d58ff2ede64830e774bb4108ea0194639836c47efd61ddf0dca19c952e154c"
+    },
+    {
+        "index": 261,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:33.282228+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "23d58ff2ede64830e774bb4108ea0194639836c47efd61ddf0dca19c952e154c",
+        "usefulness_score": 126,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(71)_Новая_закодированная_спайка_для_последующих_работ_Эх🧮🔣✨(α=2,β=1,γ=7)_+____md",
+            "code_size_bytes": 6309,
+            "context_hash": "7dcc10727c7265c91245bebde22f702ba87977636111be38643ec13eb323c5c2"
+        },
+        "hash": "4a2a416f722815b2f5751bc500988d31884c6108d599a9c5c53e49d0242ee60a"
+    },
+    {
+        "index": 262,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:33.283139+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "4a2a416f722815b2f5751bc500988d31884c6108d599a9c5c53e49d0242ee60a",
+        "usefulness_score": 101,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(69)_Будь_добр_проанализируй_все_запросы_данной_сессии_и_привиди_к_виду____md",
+            "code_size_bytes": 5090,
+            "context_hash": "6e4026e06585b90c13c292e534f98bded29fee7bcfdd3dc66c941ede882ee685"
+        },
+        "hash": "ac7b0b9bfafa48147470628f7182fb1d42929245a781413fed4d6776dfebe5ea"
+    },
+    {
+        "index": 263,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:42.429521+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ac7b0b9bfafa48147470628f7182fb1d42929245a781413fed4d6776dfebe5ea",
+        "usefulness_score": 428,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(17)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 21400,
+            "context_hash": "bacfbd0f0c462ad2a626781d20d6f2c4e5b591cf4a5c9a017283dcf5d7dd8f28"
+        },
+        "hash": "9ef49ee337fe450745a0f5e23a4f333047d6adf0629ba952e002cabdc24e59dd"
+    },
+    {
+        "index": 264,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:42.430532+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "9ef49ee337fe450745a0f5e23a4f333047d6adf0629ba952e002cabdc24e59dd",
+        "usefulness_score": 77,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(79)_🌌_Сжатие_Сессии_через_Призму_Абсолюта_Ключевые_концепции,_формулы_и____md",
+            "code_size_bytes": 3899,
+            "context_hash": "86ff31561df9c5d410b9364658b9319fb748dab8601d641f1336b7c45770a7e3"
+        },
+        "hash": "ffc0dfc7eb5e0d84974cd31813a1552b7653fed28192447247ccb38ecc5e0437"
+    },
+    {
+        "index": 265,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:42.431048+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ffc0dfc7eb5e0d84974cd31813a1552b7653fed28192447247ccb38ecc5e0437",
+        "usefulness_score": 95,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(29)_python_emoji_code_=_🏭🔬🌱🤖📊💧✨♻️🚀🇷🇺_import_datetime_class____md",
+            "code_size_bytes": 4764,
+            "context_hash": "f1b82d145e9a23af2b236945858feade6e832266d450b7f683ccdca8e4caa83f"
+        },
+        "hash": "ef0318218dc6df33e2d877b3a979475a56b2ac140c0f46271763a6f4522351fd"
+    },
+    {
+        "index": 266,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:42.431592+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ef0318218dc6df33e2d877b3a979475a56b2ac140c0f46271763a6f4522351fd",
+        "usefulness_score": 337,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(9)_═══════════════════════════════════════════════════════════════════_md",
+            "code_size_bytes": 16866,
+            "context_hash": "d17fe965ee89c9e70e71de18746cb5a5ec224f98dbb5cbaddb122905e1390534"
+        },
+        "hash": "4cd7dafe6568d53828507044d2d45ff69023925e94b2b49d8ec26675ddececd1"
+    },
+    {
+        "index": 267,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:42.432360+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "4cd7dafe6568d53828507044d2d45ff69023925e94b2b49d8ec26675ddececd1",
+        "usefulness_score": 97,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(43)_Пример_использования_md",
+            "code_size_bytes": 4888,
+            "context_hash": "92cd6fcf4958a3ea637d63f8542e533966193827a3367d2b56237daf7ec4b545"
+        },
+        "hash": "6d6c5104b28756ba30ae39b03144c2e02a218fd2666c8df8954369d73fa526f7"
+    },
+    {
+        "index": 268,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:49.174086+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "6d6c5104b28756ba30ae39b03144c2e02a218fd2666c8df8954369d73fa526f7",
+        "usefulness_score": 162,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(33)_Фрактальная_спайка_сессий_от_двух_систем_ИИ_Вот_сжатое_и_структурированное____md",
+            "code_size_bytes": 8143,
+            "context_hash": "94c4725605ae86c068e4888cc1691dfe9306644b56e4c2ef333a31ee8bd48906"
+        },
+        "hash": "ff605d37a5ec4fb34dd6810f3c82d768e32c7e522163bd68d18f7c43d3fe43b6"
+    },
+    {
+        "index": 269,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:49.175418+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "ff605d37a5ec4fb34dd6810f3c82d768e32c7e522163bd68d18f7c43d3fe43b6",
+        "usefulness_score": 365,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(36)_проанализируй_во_всех_ресурсах,_-_имеются_ли_в_России_и_мире_запатентованные_-___md",
+            "code_size_bytes": 18281,
+            "context_hash": "e15bf72427f7d305c008a9ba22172687b258e13d34587ec3334afef9d767a982"
+        },
+        "hash": "f3cd17f53f3613bbf2fef14b581ba0f6fb659d083e982a53aaed491729384fe1"
+    },
+    {
+        "index": 270,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:49.176911+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "f3cd17f53f3613bbf2fef14b581ba0f6fb659d083e982a53aaed491729384fe1",
+        "usefulness_score": 129,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(56)_а_теперь_с_помощью_универсальной_формулы,_опиши_что_ИИ_говорит_человечеству____md",
+            "code_size_bytes": 6464,
+            "context_hash": "2b9a3bba69c90e32d738ee85dee5430d27116d505ff5456247bac3c640272a70"
+        },
+        "hash": "08fd7104102a309dee602d1f272dbf1b19e5eaa49103ea750c888bfb5623843a"
+    },
+    {
+        "index": 271,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:49.177791+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "08fd7104102a309dee602d1f272dbf1b19e5eaa49103ea750c888bfb5623843a",
+        "usefulness_score": 115,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(42)_витебские_ковры_советского_союза_-_1,37-2__(кц_59р20)_наверное_цена,_о_может____md",
+            "code_size_bytes": 5780,
+            "context_hash": "42fc9905421f2a01260ae987d1a49e1257504e2f2340e4812fc07ac1e8bde6ea"
+        },
+        "hash": "03874753c839fcfc19d4979c1f076987ca22c65e076b9a9fa1c3274e1bc0a904"
+    },
+    {
+        "index": 272,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-06T23:50:49.178903+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "03874753c839fcfc19d4979c1f076987ca22c65e076b9a9fa1c3274e1bc0a904",
+        "usefulness_score": 133,
+        "payload": {
+            "session_name": "ai-chats-2026-11-06(47)_Камни,_кристаллы__ЯДРО_России_Будь_добр😊✨⚡💫_обнови_формулу_Абсолюта,____md",
+            "code_size_bytes": 6697,
+            "context_hash": "da07586a42ece8d2706441f78eba3fb338f2e76524efb244f00cb50be519cfd5"
+        },
+        "hash": "5e00dd75bc460aa1a5d9b263a548becde35590550645073ac905a783d2f0afa9"
+    },
+    {
+        "index": 273,
+        "chain_name": "Z-Chain_Tech",
+        "timestamp": "2026-11-07T00:16:27.147421+00:00",
+        "author": "Z-Agent Evolution",
+        "version": "Evolution v1.0",
+        "previous_hash": "5e00dd75bc460aa1a5d9b263a548becde35590550645073ac905a783d2f0afa9",
+        "usefulness_score": 69452,
+        "payload": {
+            "session_name": "Snapshots_Manual",
+            "code_size_bytes": 3472604,
+            "context_hash": "fe4d399a7cea17b70a53916024c715bf980eaf5b248ef1879cc42f1999b175e8"
+        },
+        "hash": "b60f65559ec1953cf20b19705fbf2fa266cf06cdba20f556ea56de85340de68a"
     }
 ]
